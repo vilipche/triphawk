@@ -11,10 +11,13 @@ resp = amadeus.shopping.activities.by_square.get(
     north=41.397158,
     west=2.160873,
     south=41.394582,
-    east=2.177181
+    east=2.177181,
+    credentials='NIGHTLIFE'
 )
+# resp = amadeus.get('https://test.api.amadeus.com/v1/reference-data/locations/pois/by-square?north=41.397158&west=2.160873&south=41.394582&east=2.177181&page[limit]=10&page[offset]=0')
 
-print(resp.data)
+print(resp.result)
+
 
 #     print(response.data)
 # except ResponseError as error:

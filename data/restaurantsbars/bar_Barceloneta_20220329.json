@@ -1,0 +1,4258 @@
+[
+    {
+        "id": "aqZzgXnb7ShziQ-g_mK2vQ",
+        "alias": "bar-rubí-barcelona",
+        "name": "Bar Rubí",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9gIs7dT0ZuSyqW09S0YHGg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bar-rub%C3%AD-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 38,
+        "categories": [
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            },
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.3846112288092,
+            "longitude": 2.18044281005859
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Carrer Banys Vells, 6",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer Banys Vells, 6",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 1487.4988623458514
+    },
+    {
+        "id": "PuTEKaBOnBOyq0YLBWbtXQ",
+        "alias": "eclipse-barcelona",
+        "name": "Eclipse",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Hz0MtnbkLaK5pGz2tTTKSA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/eclipse-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 49,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 41.3693370964047,
+            "longitude": 2.19039916992188
+        },
+        "transactions": [],
+        "price": "€€€",
+        "location": {
+            "address1": "Plaça de la Rosa dels Vents, 1",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08039",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Plaça de la Rosa dels Vents, 1",
+                "08039 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34679008698",
+        "display_phone": "+34 679 00 86 98",
+        "distance": 403.35017880186996
+    },
+    {
+        "id": "-9pT4eox3YN6Ex7654MXjw",
+        "alias": "salt-barcelona",
+        "name": "Salt",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DwQ5p49LIxZ7ddCtivECBw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/salt-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 24,
+        "categories": [
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.3691659001857,
+            "longitude": 2.19039904480903
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Plaça de la Rosa dels Vents, 1",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08773",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Plaça de la Rosa dels Vents, 1",
+                "08773 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34932952819",
+        "display_phone": "+34 932 95 28 19",
+        "distance": 420.32351838834364
+    },
+    {
+        "id": "2XSaMCmepx7dTAS58Z2Q9A",
+        "alias": "can-paixano-barcelona-4",
+        "name": "Can Paixano",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/B7kuTeeC6hS_G-oa2QscwA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/can-paixano-barcelona-4?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 378,
+        "categories": [
+            {
+                "alias": "tapasmallplates",
+                "title": "Tapas/Small Plates"
+            },
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            },
+            {
+                "alias": "divebars",
+                "title": "Dive Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.381832,
+            "longitude": 2.183355
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Carrer de la Reina Cristina, 7",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de la Reina Cristina, 7",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933100839",
+        "display_phone": "+34 933 10 08 39",
+        "distance": 1106.975165893565
+    },
+    {
+        "id": "FOaYaKbq8_afEh5jrDMKyA",
+        "alias": "bar-celoneta-sangría-bar-barcelona-6",
+        "name": "Bar Celoneta Sangría Bar",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/i0qmlSk27_LefhEyBQb0_Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bar-celoneta-sangr%C3%ADa-bar-barcelona-6?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 66,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            },
+            {
+                "alias": "vegan",
+                "title": "Vegan"
+            },
+            {
+                "alias": "vegetarian",
+                "title": "Vegetarian"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.3768648,
+            "longitude": 2.1899738
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Carrer de Sevilla, 70",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Sevilla, 70",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933104100",
+        "display_phone": "+34 933 10 41 00",
+        "distance": 502.38974309086154
+    },
+    {
+        "id": "hbmJK0h3-RlCZLaEEzlmZg",
+        "alias": "nevermind-barcelona",
+        "name": "Nevermind",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hSmAPlJhuyZK3Rrvz87d6A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/nevermind-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 36,
+        "categories": [
+            {
+                "alias": "divebars",
+                "title": "Dive Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.380611,
+            "longitude": 2.175938
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Carrer d'Escudellers Blancs, 3",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08002",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer d'Escudellers Blancs, 3",
+                "08002 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34663710095",
+        "display_phone": "+34 663 71 00 95",
+        "distance": 1357.8379134737959
+    },
+    {
+        "id": "Ho0vW02UBMtOvEvBH1AIdw",
+        "alias": "jefferson-barcelona",
+        "name": "Jefferson",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YzHF2Ug-myBqgGXlUmeZBw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/jefferson-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 5,
+        "categories": [
+            {
+                "alias": "beachbars",
+                "title": "Beach Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.375248,
+            "longitude": 2.190543
+        },
+        "transactions": [],
+        "location": {
+            "address1": "Plaça del Mar, S/N",
+            "address2": "",
+            "address3": null,
+            "city": "Barcelona",
+            "zip_code": "08015",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Plaça del Mar, S/N",
+                "08015 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933091291",
+        "display_phone": "+34 933 09 12 91",
+        "distance": 359.12393778082384
+    },
+    {
+        "id": "aoNx2VWvEISIqGtLSab0aQ",
+        "alias": "nevermind-barcelona-3",
+        "name": "Nevermind",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XqToo_Cxd6feRSnLy3I7aQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/nevermind-barcelona-3?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 15,
+        "categories": [
+            {
+                "alias": "beerbar",
+                "title": "Beer Bar"
+            },
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.385077,
+            "longitude": 2.166406
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Carrer dels Tallers, 68",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08001",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer dels Tallers, 68",
+                "08001 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34663710095",
+        "display_phone": "+34 663 71 00 95",
+        "distance": 2288.1263480675793
+    },
+    {
+        "id": "NrEkix1TI7YYiqrtuqRs3A",
+        "alias": "palmito-beach-bar-barcelona",
+        "name": "Palmito Beach Bar",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/iH1sjQS0gpWtDHMzhsL3MA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/palmito-beach-bar-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 5,
+        "categories": [
+            {
+                "alias": "beachbars",
+                "title": "Beach Bars"
+            },
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.38598,
+            "longitude": 2.19653
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer de Ramon Trias Fargas, 2",
+            "address2": "",
+            "address3": null,
+            "city": "Barcelona",
+            "zip_code": "08005",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Ramon Trias Fargas, 2",
+                "08005 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34932240407",
+        "display_phone": "+34 932 24 04 07",
+        "distance": 1574.219700080747
+    },
+    {
+        "id": "BWDMaLMfE-H6yoyhUPAFkQ",
+        "alias": "el-bosc-de-les-fades-barcelona",
+        "name": "El Bosc de les Fades",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bM8kxS3nfgeW4gqrKdNYvw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-bosc-de-les-fades-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 121,
+        "categories": [
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            },
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.3771444,
+            "longitude": 2.1774657
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Passatge de la Banca, 5",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08002",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Passatge de la Banca, 5",
+                "08002 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933172649",
+        "display_phone": "+34 933 17 26 49",
+        "distance": 1028.516548967979
+    },
+    {
+        "id": "xOpazlfzOhFiXLCp1lxhsg",
+        "alias": "milk-bar-y-bistro-barcelona-3",
+        "name": "Milk Bar & Bistro",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_mMBuFq0EpQras2AmGX-YQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/milk-bar-y-bistro-barcelona-3?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 431,
+        "categories": [
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            },
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.3813,
+            "longitude": 2.18014
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer d'en Gignàs, 21",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08002",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer d'en Gignàs, 21",
+                "08002 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34932680922",
+        "display_phone": "+34 932 68 09 22",
+        "distance": 1184.5979477262595
+    },
+    {
+        "id": "B40oH32chhQdpsonY2GJKw",
+        "alias": "dr-stravinsky-barcelona",
+        "name": "Dr. Stravinsky",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VHKIupu6hXI59io1R56teg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/dr-stravinsky-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 35,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.3841899,
+            "longitude": 2.18058
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer dels Mirallers, 5",
+            "address2": "",
+            "address3": null,
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer dels Mirallers, 5",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34931571233",
+        "display_phone": "+34 931 57 12 33",
+        "distance": 1445.4840817466
+    },
+    {
+        "id": "ZqxusUo-8V4upyheqvnSdw",
+        "alias": "wet-barcelona",
+        "name": "Wet",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/D7FXrKHf1dZ4mYOCABEENg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/wet-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 2,
+        "categories": [
+            {
+                "alias": "lounges",
+                "title": "Lounges"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 41.368552,
+            "longitude": 2.190338
+        },
+        "transactions": [],
+        "price": "€€€",
+        "location": {
+            "address1": "W Barcelona",
+            "address2": "Plaça de la Rosa dels Vents, 1",
+            "address3": null,
+            "city": "Barcelona",
+            "zip_code": "08039",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "W Barcelona",
+                "Plaça de la Rosa dels Vents, 1",
+                "08039 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34932952800",
+        "display_phone": "+34 932 95 28 00",
+        "distance": 480.52802274468826
+    },
+    {
+        "id": "v_8NbvglmI-rLJ1245HCjw",
+        "alias": "paradiso-barcelona",
+        "name": "Paradiso",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uNBx8pQVyNNDxyl8AZJgUA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/paradiso-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 105,
+        "categories": [
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.383687,
+            "longitude": 2.183719
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer de Rera Palau, 4",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Rera Palau, 4",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933607222",
+        "display_phone": "+34 933 60 72 22",
+        "distance": 1292.2950384443757
+    },
+    {
+        "id": "0PDqIw9qCkFGwaTe-I6FVw",
+        "alias": "opium-barcelona-barcelona",
+        "name": "Opium Barcelona",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GlaLxxuyEDmPIw8ZW0I3HA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/opium-barcelona-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 128,
+        "categories": [
+            {
+                "alias": "danceclubs",
+                "title": "Dance Clubs"
+            },
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 41.385330375447,
+            "longitude": 2.1966925446822
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Passeig Marítim Barceloneta, 34",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Passeig Marítim Barceloneta, 34",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34902267486",
+        "display_phone": "+34 902 26 74 86",
+        "distance": 1588.7005806912773
+    },
+    {
+        "id": "ireFL6RdLbg8zi0zd3JX5g",
+        "alias": "h1898-rooftopbar-barcelona",
+        "name": "H1898 Rooftopbar",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PiwRve10PROVA8vOstMzww/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/h1898-rooftopbar-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 7,
+        "categories": [
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.3819808959961,
+            "longitude": 2.17480802536011
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Les Rambles, 109",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08002",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Les Rambles, 109",
+                "08002 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34935529552",
+        "display_phone": "+34 935 52 95 52",
+        "distance": 1864.4710501542752
+    },
+    {
+        "id": "tJ12Qi_1zyyokPyRmBr_vA",
+        "alias": "ohla-terraza-chill-out-barcelona",
+        "name": "Ohla Terraza Chill-Out",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/O4BC6rfkK_ccVyJyu-cDOQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ohla-terraza-chill-out-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 10,
+        "categories": [
+            {
+                "alias": "lounges",
+                "title": "Lounges"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.3870318011532,
+            "longitude": 2.17433063558201
+        },
+        "transactions": [],
+        "price": "€€€",
+        "location": {
+            "address1": "Hotel Ohla",
+            "address2": "Vía Laietana, 49",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08002",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Hotel Ohla",
+                "Vía Laietana, 49",
+                "08002 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933415050",
+        "display_phone": "+34 933 41 50 50",
+        "distance": 1980.9514621346357
+    },
+    {
+        "id": "THBKTsa-6WM5bf34hwhj5Q",
+        "alias": "l-ovella-negra-barcelona",
+        "name": "L'Ovella Negra",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rGJC_xw55roRUDpX_GZJCA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/l-ovella-negra-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 78,
+        "categories": [
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.38446,
+            "longitude": 2.1696
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Carrer de les Sitges, 5",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08001",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de les Sitges, 5",
+                "08001 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933171087",
+        "display_phone": "+34 933 17 10 87",
+        "distance": 2043.4009915752813
+    },
+    {
+        "id": "IMhp1TCi5sUw4VFsH2kP6w",
+        "alias": "beach-life-barcelona",
+        "name": "Beach Life",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/38dnAqCvD5wdD719yqC8OQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/beach-life-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 3,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.38133,
+            "longitude": 2.18765
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer Sant Miquel Platja, 2",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer Sant Miquel Platja, 2",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 631.8902260639974
+    },
+    {
+        "id": "2UA7jwnsGzgA65ByewQIfA",
+        "alias": "dux-barcelona-3",
+        "name": "Dux",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HbsLSi_8tueRlnFZ9FLD4g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/dux-barcelona-3?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 103,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 41.384417,
+            "longitude": 2.180062
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer dels Vigatans, 13",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer dels Vigatans, 13",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34930184228",
+        "display_phone": "+34 930 18 42 28",
+        "distance": 1482.2888710547556
+    },
+    {
+        "id": "iUdDqea_ywON6wJFwxxApA",
+        "alias": "el-vaso-de-oro-barcelona-2",
+        "name": "El Vaso de Oro",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WRMN90aVoXIOMiUieQY4lQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-vaso-de-oro-barcelona-2?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 178,
+        "categories": [
+            {
+                "alias": "tapas",
+                "title": "Tapas Bars"
+            },
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            },
+            {
+                "alias": "beerbar",
+                "title": "Beer Bar"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.381829,
+            "longitude": 2.187319
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer de Balboa, 6",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Balboa, 6",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933193098",
+        "display_phone": "+34 933 19 30 98",
+        "distance": 1033.6713828021575
+    },
+    {
+        "id": "dM07D-6B39ViIKFX1h65cQ",
+        "alias": "amarre-69-barcelona",
+        "name": "Amarre 69",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vE4eNfjJJyKK-t56bnG9Hg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/amarre-69-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 14,
+        "categories": [
+            {
+                "alias": "tapas",
+                "title": "Tapas Bars"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            },
+            {
+                "alias": "tapasmallplates",
+                "title": "Tapas/Small Plates"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.3759188,
+            "longitude": 2.1892477
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Paseo Juan de Borbón, 69",
+            "address2": null,
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Paseo Juan de Borbón, 69",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34932505065",
+        "display_phone": "+34 932 50 50 65",
+        "distance": 384.7647946542631
+    },
+    {
+        "id": "Jsxgxx1xsdUKzMFEuD-Dbg",
+        "alias": "chiringuito-del-mar-barcelona",
+        "name": "Chiringuito del Mar",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tjSRJ5uAEoCsNJymHs5LDQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/chiringuito-del-mar-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 7,
+        "categories": [
+            {
+                "alias": "lounges",
+                "title": "Lounges"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 41.3736158076269,
+            "longitude": 2.18949048398418
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Plaça del Mar, s/n",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Plaça del Mar, s/n",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 161.56910424530562
+    },
+    {
+        "id": "PwfI2e_3F4dP8a_qRnq05g",
+        "alias": "la-concha-barcelona-barcelona",
+        "name": "La Concha Barcelona",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/M_MFh-pTHyIK-VqbPJowsw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/la-concha-barcelona-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 8,
+        "categories": [
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.37767,
+            "longitude": 2.17419
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Carrer de Guàrdia, 14",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08001",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Guàrdia, 14",
+                "08001 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933024118",
+        "display_phone": "+34 933 02 41 18",
+        "distance": 1298.5040502327633
+    },
+    {
+        "id": "qldDKSUkLqdOypquAOq1gg",
+        "alias": "madame-george-barcelona-2",
+        "name": "Madame George",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9A629frBWM2wATifGce6lA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/madame-george-barcelona-2?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 4,
+        "categories": [
+            {
+                "alias": "lounges",
+                "title": "Lounges"
+            },
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 41.40206,
+            "longitude": 2.20104
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Carrer de Pujades, 179",
+            "address2": null,
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08005",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Pujades, 179",
+                "08005 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34955005151",
+        "display_phone": "+34 955 00 51 51",
+        "distance": 3455.588709930909
+    },
+    {
+        "id": "zg5k_to016Xvv14_Z9JDeA",
+        "alias": "polaroid-barcelona",
+        "name": "Polaroid",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rp6lZBAGqYdaf8raczXPdw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/polaroid-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 31,
+        "categories": [
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.37933,
+            "longitude": 2.17875
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Carrer dels Còdols, 29",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08002",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer dels Còdols, 29",
+                "08002 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34931866669",
+        "display_phone": "+34 931 86 66 69",
+        "distance": 1089.9172255679111
+    },
+    {
+        "id": "Vtn_Q3J7yJTFEPABtbhsDw",
+        "alias": "sauvage-barcelona",
+        "name": "Sauvage",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fqbvi-QbBXE1-hD6df9sTg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/sauvage-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 7,
+        "categories": [
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.3843849503564,
+            "longitude": 2.18281542158901
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Passeig del Born, 13",
+            "address2": "",
+            "address3": null,
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Passeig del Born, 13",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34938325184",
+        "display_phone": "+34 938 32 51 84",
+        "distance": 1389.18397523519
+    },
+    {
+        "id": "3RWFfNOJtNc5l1BIISaRvQ",
+        "alias": "la-bombeta-barcelona",
+        "name": "La Bombeta",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mj6uxNTQZbSj1r0-w-r4Zg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/la-bombeta-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 84,
+        "categories": [
+            {
+                "alias": "tapas",
+                "title": "Tapas Bars"
+            },
+            {
+                "alias": "wine_bars",
+                "title": "Wine Bars"
+            },
+            {
+                "alias": "tapasmallplates",
+                "title": "Tapas/Small Plates"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.3805382,
+            "longitude": 2.1877718
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer de la Maquinista, 3",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de la Maquinista, 3",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933199445",
+        "display_phone": "+34 933 19 94 45",
+        "distance": 888.3274057359015
+    },
+    {
+        "id": "dqrGpeL-mH06abE1KCGl3A",
+        "alias": "espit-chupitos-barcelona-2",
+        "name": "Espit Chupitos",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wTTeXdhaPwvFWsqc6FpLSw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/espit-chupitos-barcelona-2?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 36,
+        "categories": [
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.3803,
+            "longitude": 2.1809599
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Paseo de Colón, 8",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08002",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Paseo de Colón, 8",
+                "08002 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34697814461",
+        "display_phone": "+34 697 81 44 61",
+        "distance": 1063.5179080635621
+    },
+    {
+        "id": "C1Ar3KptQLf4rbZ4SOyxug",
+        "alias": "psycho-rock-and-roll-club-barcelona",
+        "name": "Psycho Rock and Roll Club",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/v9Z8DLp2zxizZ3MEgUJvcA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/psycho-rock-and-roll-club-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 3,
+        "categories": [
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 41.3730087,
+            "longitude": 2.1696801
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer de Piquer, 27",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08004",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Piquer, 27",
+                "08004 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 1536.079924138677
+    },
+    {
+        "id": "Eqww4YG3gYXC-d8kdcgXDw",
+        "alias": "old-fashioned-barcelona",
+        "name": "Old Fashioned",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Bb1c0Z1wh09tWokrSHNwtw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/old-fashioned-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 108,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            },
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 41.398016,
+            "longitude": 2.159741
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer de Santa Teresa, 1",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08012",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Santa Teresa, 1",
+                "08012 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933685277",
+        "display_phone": "+34 933 68 52 77",
+        "distance": 3693.19598604894
+    },
+    {
+        "id": "vxiQFnSgVHFwnPxOdKRNUQ",
+        "alias": "barítimo-barcelona-3",
+        "name": "Barítimo",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bEuQLbW8mvmknIhEziswFg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bar%C3%ADtimo-barcelona-3?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 7,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            },
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 41.37460356,
+            "longitude": 2.18320375
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Moll d'Espanya, 5",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08039",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Moll d'Espanya, 5",
+                "08039 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34934146362",
+        "display_phone": "+34 934 14 63 62",
+        "distance": 520.8591258110955
+    },
+    {
+        "id": "-JTgXl43rKBfetnYHgy5Ew",
+        "alias": "madame-jasmine-barcelona",
+        "name": "Madame Jasmine",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AG_OT4aHePjj2hrftdNnJg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/madame-jasmine-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 21,
+        "categories": [
+            {
+                "alias": "lounges",
+                "title": "Lounges"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.37801,
+            "longitude": 2.16968
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Rambla del Raval, 22",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08001",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Rambla del Raval, 22",
+                "08001 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34607880443",
+        "display_phone": "+34 607 88 04 43",
+        "distance": 1659.5633717673866
+    },
+    {
+        "id": "Iajn1sq91lwzZ1e1bEZ1IQ",
+        "alias": "first-bar-barcelona",
+        "name": "First Bar",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hvJ88luNHptPOQrRcBq0HQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/first-bar-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 7,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            },
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            },
+            {
+                "alias": "tapas",
+                "title": "Tapas Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.381015,
+            "longitude": 2.175328
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Carrer d'en Rauric, 9",
+            "address2": null,
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08002",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer d'en Rauric, 9",
+                "08002 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34936241896",
+        "display_phone": "+34 936 24 18 96",
+        "distance": 1425.7218759854395
+    },
+    {
+        "id": "_uG35jSXw79fSAW5Nupftg",
+        "alias": "the-bollocks-barcelona",
+        "name": "The Bollocks",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-JSH1-DBVH3ZRxTrberf8A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-bollocks-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 18,
+        "categories": [
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            },
+            {
+                "alias": "burgers",
+                "title": "Burgers"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.38103,
+            "longitude": 2.18045
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Carrer Ample, 46",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08002",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer Ample, 46",
+                "08002 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 1139.5998008864694
+    },
+    {
+        "id": "m_SculC2X1r6zdQ2N_r3Vg",
+        "alias": "makamaka-barcelona-3",
+        "name": "Makamaka",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zhJGbdxuKwTtJje4nS2ERA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/makamaka-barcelona-3?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 80,
+        "categories": [
+            {
+                "alias": "burgers",
+                "title": "Burgers"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.3757524106128,
+            "longitude": 2.18859414271709
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Passeig de Joan de Borbó, 76",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08039",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Passeig de Joan de Borbó, 76",
+                "08039 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34932213520",
+        "display_phone": "+34 932 21 35 20",
+        "distance": 357.3356359585327
+    },
+    {
+        "id": "LbClyed1_SzfPuT27WjCeg",
+        "alias": "surf-house-barcelona-barcelona",
+        "name": "Surf House Barcelona",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qpSe7woyv_NfogoOb6ailg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/surf-house-barcelona-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 76,
+        "categories": [
+            {
+                "alias": "burgers",
+                "title": "Burgers"
+            },
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.3775322201786,
+            "longitude": 2.19065684418024
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer de l'Almirall Aixada, 22",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de l'Almirall Aixada, 22",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34932507023",
+        "display_phone": "+34 932 50 70 23",
+        "distance": 591.1550364715622
+    },
+    {
+        "id": "EWDCJ9gaBpuXWY3b12oQYg",
+        "alias": "slow-barcelona-barcelona",
+        "name": "Slow Barcelona",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-Zkga5mQ17pysxM8365SwA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/slow-barcelona-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 10,
+        "categories": [
+            {
+                "alias": "lounges",
+                "title": "Lounges"
+            },
+            {
+                "alias": "musicvenues",
+                "title": "Music Venues"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.393586,
+            "longitude": 2.1533566
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer de París, 186",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08036",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de París, 186",
+                "08036 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933681455",
+        "display_phone": "+34 933 68 14 55",
+        "distance": 3728.772118906271
+    },
+    {
+        "id": "SkZE59Tk6JIQrcXCOS3gow",
+        "alias": "creps-al-born-barcelona-3",
+        "name": "Creps al Born",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/x87YT998H9AuHeMfrkTNwQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/creps-al-born-barcelona-3?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 64,
+        "categories": [
+            {
+                "alias": "creperies",
+                "title": "Creperies"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.38432,
+            "longitude": 2.18268
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Passeig del Born, 12",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Passeig del Born, 12",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34932690325",
+        "display_phone": "+34 932 69 03 25",
+        "distance": 1384.7222707977946
+    },
+    {
+        "id": "mF5QtBi2UJprcOOKuUr5Cw",
+        "alias": "el-xampanyet-barcelona",
+        "name": "El Xampanyet",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jzAgJCIroP0fmHzHEKqs8w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-xampanyet-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 279,
+        "categories": [
+            {
+                "alias": "tapas",
+                "title": "Tapas Bars"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.384541,
+            "longitude": 2.181677
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer de Montcada, 22",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Montcada, 22",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933197003",
+        "display_phone": "+34 933 19 70 03",
+        "distance": 1438.62427293633
+    },
+    {
+        "id": "yKQwSSZJ25S0KflR77aQhw",
+        "alias": "la-alcoba-azul-barcelona",
+        "name": "La Alcoba Azul",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/K5QmXN14Tb5uO-mL-idCIw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/la-alcoba-azul-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 132,
+        "categories": [
+            {
+                "alias": "tapas",
+                "title": "Tapas Bars"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.382934,
+            "longitude": 2.175515
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer de Sant Domenec del Call, 14",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08002",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Sant Domenec del Call, 14",
+                "08002 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933028141",
+        "display_phone": "+34 933 02 81 41",
+        "distance": 1564.1183290459855
+    },
+    {
+        "id": "4JtSFcKPDAChAUqc0GxWmg",
+        "alias": "bilbao-berria-barcelona-2",
+        "name": "Bilbao Berria",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UDKRqUrMQ4uqATlDn-50bQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bilbao-berria-barcelona-2?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 152,
+        "categories": [
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.3843726148636,
+            "longitude": 2.17495785757311
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Plaça Nova, 3",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08002",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Plaça Nova, 3",
+                "08002 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933170124",
+        "display_phone": "+34 933 17 01 24",
+        "distance": 1715.1032464170776
+    },
+    {
+        "id": "9RQkjhGJsh6-KbhNzhGUZg",
+        "alias": "quimet-y-quimet-barcelona",
+        "name": "Quimet & Quimet",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4MdnG8nT-CDTIvhpk-mY4w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/quimet-y-quimet-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 454,
+        "categories": [
+            {
+                "alias": "tapas",
+                "title": "Tapas Bars"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.373944,
+            "longitude": 2.165583
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer del Poeta Cabanyes, 25",
+            "address2": null,
+            "address3": null,
+            "city": "Barcelona",
+            "zip_code": "08004",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer del Poeta Cabanyes, 25",
+                "08004 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34934423142",
+        "display_phone": "+34 934 42 31 42",
+        "distance": 1890.839781714701
+    },
+    {
+        "id": "p1HWeRBR85QfCVJoVbAhUQ",
+        "alias": "bar-sant-pere-barcelona-3",
+        "name": "Bar Sant Pere",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GEF0XXiCNkZXbfq5ca0p0Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bar-sant-pere-barcelona-3?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 10,
+        "categories": [
+            {
+                "alias": "tapas",
+                "title": "Tapas Bars"
+            },
+            {
+                "alias": "wine_bars",
+                "title": "Wine Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.3879522848641,
+            "longitude": 2.17617683017985
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer de Sant Pere Més Alt, 28",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Sant Pere Més Alt, 28",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34936818393",
+        "display_phone": "+34 936 81 83 93",
+        "distance": 1982.983852150246
+    },
+    {
+        "id": "FSmIky7wZDL6QlcoEBYIlw",
+        "alias": "83-3-terrace-bar-barcelona",
+        "name": "83,3 Terrace Bar",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2L-fsbQkXfT8_vSO9e78iQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/83-3-terrace-bar-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 11,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.394566,
+            "longitude": 2.162423
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Passeig de Gràcia, 84",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08008",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Passeig de Gràcia, 84",
+                "08008 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 3256.333222754945
+    },
+    {
+        "id": "3Zz_wi46aTpjSAwBq2vTTw",
+        "alias": "icebarcelona-barcelona",
+        "name": "Icebarcelona",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tnjWuFrynzPNmbt4nH2rLg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/icebarcelona-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 54,
+        "categories": [
+            {
+                "alias": "bars",
+                "title": "Bars"
+            },
+            {
+                "alias": "danceclubs",
+                "title": "Dance Clubs"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 41.3854352041229,
+            "longitude": 2.19724266759795
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer de Ramón Trías Fargas, 2",
+            "address2": null,
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08005",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Ramón Trías Fargas, 2",
+                "08005 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34932241625",
+        "display_phone": "+34 932 24 16 25",
+        "distance": 1620.0693141046731
+    },
+    {
+        "id": "Fs3RRuUKBMBI3b2wQMH4_Q",
+        "alias": "el-trece-barcelona",
+        "name": "El Trece",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PL5aFZ6pxqiXL8rLyPMHXQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-trece-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 4,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.381222,
+            "longitude": 2.1762971
+        },
+        "transactions": [],
+        "location": {
+            "address1": "Carrer de la Lleona, 13",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08002",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de la Lleona, 13",
+                "08002 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 1381.955732617755
+    },
+    {
+        "id": "jHVv9YP3UQ42xT6hKTd2yg",
+        "alias": "el-jardí-barcelona-5",
+        "name": "El Jardí",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/c_R5z_eWRBmFeAQAw4P1eg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-jard%C3%AD-barcelona-5?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 9,
+        "categories": [
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 41.3836288,
+            "longitude": 2.17313
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer de la Portaferrissa, 17",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08002",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de la Portaferrissa, 17",
+                "08002 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 1771.445989465663
+    },
+    {
+        "id": "rbfUnoL9hroPcyXc3z1JqA",
+        "alias": "les-gens-que-jaime-barcelona",
+        "name": "Les Gens Que J'aime",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/V8Q2VtSHG6p_fHc2LB3qEA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/les-gens-que-jaime-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 28,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.39371,
+            "longitude": 2.16484
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer de València, 286",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08007",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de València, 286",
+                "08007 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34932156879",
+        "display_phone": "+34 932 15 68 79",
+        "distance": 3024.668841521521
+    },
+    {
+        "id": "k0dpN0ZC8R6JYBIae9kkbA",
+        "alias": "las-cuevas-de-los-rajahs-barcelona-2",
+        "name": "Las Cuevas de Los Rajahs",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/a4rd6jOMwOW-18XmV2I4Zw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/las-cuevas-de-los-rajahs-barcelona-2?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 15,
+        "categories": [
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.3803150497966,
+            "longitude": 2.17934209853411
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer d'en Gignas, 2",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08002",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer d'en Gignas, 2",
+                "08002 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34642281727",
+        "display_phone": "+34 642 28 17 27",
+        "distance": 1134.399009203103
+    },
+    {
+        "id": "7GEiigd8ShcnaOhSPjb2yQ",
+        "alias": "palau-dalmases-barcelona",
+        "name": "Palau Dalmases",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zqd5o2u7t18BU0h2o9Ptgg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/palau-dalmases-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 58,
+        "categories": [
+            {
+                "alias": "lounges",
+                "title": "Lounges"
+            },
+            {
+                "alias": "tablaoflamenco",
+                "title": "Tablao Flamenco"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.3846035,
+            "longitude": 2.1815501
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Calle Montcada, 20",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Calle Montcada, 20",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933100673",
+        "display_phone": "+34 933 10 06 73",
+        "distance": 1449.0661997102884
+    },
+    {
+        "id": "AeEKFb0WkzeEZ5YSezeJYw",
+        "alias": "taps-barcelona-2",
+        "name": "TAPS",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/olWI89OYwUzNoYUfOd8cXQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/taps-barcelona-2?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 31,
+        "categories": [
+            {
+                "alias": "tapas",
+                "title": "Tapas Bars"
+            },
+            {
+                "alias": "beerbar",
+                "title": "Beer Bar"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 41.3729247032507,
+            "longitude": 2.15563170600694
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Carrer de Mare de Deu del Remei, 53",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08004",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Mare de Deu del Remei, 53",
+                "08004 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34930061039",
+        "display_phone": "+34 930 06 10 39",
+        "distance": 2715.2158011052597
+    },
+    {
+        "id": "0aR-KjIhtcX4iKAJ_yx2Nw",
+        "alias": "milans-cocktail-bar-barcelona-2",
+        "name": "Milans Cocktail Bar",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JomJN-4oFPZ9gsf1FhZF8w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/milans-cocktail-bar-barcelona-2?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 5,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            },
+            {
+                "alias": "tapas",
+                "title": "Tapas Bars"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 41.3806664,
+            "longitude": 2.1791998
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Carrer Milans, 7",
+            "address2": null,
+            "address3": null,
+            "city": "Barcelona",
+            "zip_code": "08002",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer Milans, 7",
+                "08002 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34932689392",
+        "display_phone": "+34 932 68 93 92",
+        "distance": 1171.9368732410019
+    },
+    {
+        "id": "4pArT2LXKkcrh_hTAZoPZA",
+        "alias": "taverna-iberia-barcelona",
+        "name": "Taverna Iberia",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gWI4rzXAXsxW0vguyxjEEg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/taverna-iberia-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 20,
+        "categories": [
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            },
+            {
+                "alias": "tapas",
+                "title": "Tapas Bars"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.37904,
+            "longitude": 2.189527
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Carrer de l'Almirall Churruca, 4",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de l'Almirall Churruca, 4",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34932253655",
+        "display_phone": "+34 932 25 36 55",
+        "distance": 729.9879203022757
+    },
+    {
+        "id": "Cn1geHmwrvKu1qQISgQKgA",
+        "alias": "sensi-barcelona",
+        "name": "Sensi",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9RGzT-zdw6XbdjKq-XdZxQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/sensi-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 377,
+        "categories": [
+            {
+                "alias": "tapasmallplates",
+                "title": "Tapas/Small Plates"
+            },
+            {
+                "alias": "tapas",
+                "title": "Tapas Bars"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.38035,
+            "longitude": 2.17997
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer Ample, 26",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08002",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer Ample, 26",
+                "08002 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34932956588",
+        "display_phone": "+34 932 95 65 88",
+        "distance": 1097.979359202196
+    },
+    {
+        "id": "-nnk0S8mtVEQ1OH92EI6hg",
+        "alias": "pax-49-barcelona",
+        "name": "Pax 49",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ibdyQZakXcREUUVMCwckSA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/pax-49-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 8,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 41.3853029982891,
+            "longitude": 2.18286853283644
+        },
+        "transactions": [],
+        "location": {
+            "address1": "Carrer del Rec, 49",
+            "address2": "",
+            "address3": null,
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer del Rec, 49",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34932682389",
+        "display_phone": "+34 932 68 23 89",
+        "distance": 1484.883950098881
+    },
+    {
+        "id": "7kBltKyxe9qJSLMBU6SSjA",
+        "alias": "tandem-barcelona-2",
+        "name": "Tandem",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Jg0BksqY1V6WBsK2qgN6yQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/tandem-barcelona-2?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 28,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            },
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 41.38958,
+            "longitude": 2.15792
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer d'Aribau, 86",
+            "address2": null,
+            "address3": null,
+            "city": "Barcelona",
+            "zip_code": "08036",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer d'Aribau, 86",
+                "08036 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34934514330",
+        "display_phone": "+34 934 51 43 30",
+        "distance": 3153.843973281197
+    },
+    {
+        "id": "RXQMIEDWB0BtNbKl-JIU4w",
+        "alias": "marsella-barcelona-2",
+        "name": "Marsella",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XpklHnvlJqCU0JYh02tvvQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/marsella-barcelona-2?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 51,
+        "categories": [
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.3782314320158,
+            "longitude": 2.17120779327125
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Carrer de Sant Pau, 65",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08001",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Sant Pau, 65",
+                "08001 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34934427263",
+        "display_phone": "+34 934 42 72 63",
+        "distance": 1549.5181797269586
+    },
+    {
+        "id": "p5DWvcM2w7d1hNjf7EoqDQ",
+        "alias": "absenta-barcelona",
+        "name": "Absenta",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ocmO0wkvpVn0gztTPmqLNg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/absenta-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 20,
+        "categories": [
+            {
+                "alias": "bars",
+                "title": "Bars"
+            },
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.3795,
+            "longitude": 2.19114
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Carrer de Sant Carles, 36",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Sant Carles, 36",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34932213638",
+        "display_phone": "+34 932 21 36 38",
+        "distance": 812.1046713294737
+    },
+    {
+        "id": "c2asTsSNhPvGgZQ1y0bbzA",
+        "alias": "bodega-la-puntual-barcelona",
+        "name": "Bodega La Puntual",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ejPtuYIvpZU8OcXGbU3TjQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bodega-la-puntual-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 57,
+        "categories": [
+            {
+                "alias": "catalan",
+                "title": "Catalan"
+            },
+            {
+                "alias": "tapas",
+                "title": "Tapas Bars"
+            },
+            {
+                "alias": "wine_bars",
+                "title": "Wine Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.3844643211795,
+            "longitude": 2.18173999339342
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer de Montcada, 22",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Montcada, 22",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933103545",
+        "display_phone": "+34 933 10 35 45",
+        "distance": 1428.7477281486977
+    },
+    {
+        "id": "IoNaM2kvZszxxgzT-DVsDQ",
+        "alias": "foc-latin-food-y-drinks-barcelona",
+        "name": "FOC Latin Food & Drinks",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4Sz7n1uCZXB_luJN-tK3cQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/foc-latin-food-y-drinks-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 44,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.3760967,
+            "longitude": 2.189177
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Passeig de Joan de Borbó, 66",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Passeig de Joan de Borbó, 66",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34932241153",
+        "display_phone": "+34 932 24 11 53",
+        "distance": 402.7476144553882
+    },
+    {
+        "id": "rBGN5nlgQuoqVFdarPX_Ww",
+        "alias": "la-plata-barcelona",
+        "name": "La Plata",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/C6Lxb8GkmpK2gsprdKe7hw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/la-plata-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 127,
+        "categories": [
+            {
+                "alias": "tapasmallplates",
+                "title": "Tapas/Small Plates"
+            },
+            {
+                "alias": "wine_bars",
+                "title": "Wine Bars"
+            },
+            {
+                "alias": "tapas",
+                "title": "Tapas Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.38047,
+            "longitude": 2.1806199
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Carrer de la Mercè, 28",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08002",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de la Mercè, 28",
+                "08002 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933151009",
+        "display_phone": "+34 933 15 10 09",
+        "distance": 1080.6844054884273
+    },
+    {
+        "id": "fz2zRmOjuocu3rgcYas2kw",
+        "alias": "ocaña-apotheke-barcelona",
+        "name": "Ocaña Apotheke",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mCnTkzFeTOm4C1lXDYwKow/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/oca%C3%B1a-apotheke-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 3,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            },
+            {
+                "alias": "jazzandblues",
+                "title": "Jazz & Blues"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.3797,
+            "longitude": 2.175439
+        },
+        "transactions": [],
+        "location": {
+            "address1": "Plaça Reial, 13",
+            "address2": null,
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08002",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Plaça Reial, 13",
+                "08002 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34600528445",
+        "display_phone": "+34 600 52 84 45",
+        "distance": 1326.3552614479154
+    },
+    {
+        "id": "qvAtonLNW9hT3zkE-8zF2A",
+        "alias": "bodega-biarritz-1881-barcelona",
+        "name": "Bodega Biarritz 1881",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7z0VtwQoryq4hX8S6T28tA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bodega-biarritz-1881-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 88,
+        "categories": [
+            {
+                "alias": "bars",
+                "title": "Bars"
+            },
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.379771,
+            "longitude": 2.176196
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer del Vidre, 8",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08002",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer del Vidre, 8",
+                "08002 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34618677927",
+        "display_phone": "+34 618 67 79 27",
+        "distance": 1281.267932070653
+    },
+    {
+        "id": "NDUcbi0TdxwVTHwQ9K3_5Q",
+        "alias": "the-box-barcelona-2",
+        "name": "The Box",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HP2jrRYIWXA-F9zZkTAuNA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-box-barcelona-2?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 43,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.381475,
+            "longitude": 2.1803167
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer d'En Gignàs, 30",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08002",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer d'En Gignàs, 30",
+                "08002 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933196717",
+        "display_phone": "+34 933 19 67 17",
+        "distance": 1188.6680534123072
+    },
+    {
+        "id": "xuDi_1cLsDeblwXXfuITbQ",
+        "alias": "la-terrasa-de-les-indianes-barcelona",
+        "name": "La Terrasa de les Indianes",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YlDMat7SdWuIkV3_yMAr3w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/la-terrasa-de-les-indianes-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 2,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            },
+            {
+                "alias": "gastropubs",
+                "title": "Gastropubs"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.3823687,
+            "longitude": 2.1851955
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Pl. Pau de la Vila 3",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Pl. Pau de la Vila 3",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933425411",
+        "display_phone": "+34 933 42 54 11",
+        "distance": 1119.0771003931827
+    },
+    {
+        "id": "qCGwKmw3TFrZ9p1SVluv2A",
+        "alias": "two-schmucks-barcelona",
+        "name": "Two Schmucks",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HTNX2FThVhus8x81EcECyA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/two-schmucks-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 17,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            },
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 41.38315,
+            "longitude": 2.16519
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer de Joaquin Costa, 52",
+            "address2": null,
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08001",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Joaquin Costa, 52",
+                "08001 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34635396088",
+        "display_phone": "+34 635 39 60 88",
+        "distance": 2247.9396605808374
+    },
+    {
+        "id": "eLm4-cKtng9Y_nutQt60Vg",
+        "alias": "oaxaca-cuina-mexicana-barcelona-10",
+        "name": "Oaxaca Cuina Mexicana",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2QWN-NB4U1hbpqEVJiZO1g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/oaxaca-cuina-mexicana-barcelona-10?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 24,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            },
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.38207,
+            "longitude": 2.18404
+        },
+        "transactions": [],
+        "price": "€€€",
+        "location": {
+            "address1": "Pla de Palau, 19",
+            "address2": null,
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Pla de Palau, 19",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933190064",
+        "display_phone": "+34 933 19 00 64",
+        "distance": 1105.8900264018096
+    },
+    {
+        "id": "Pw6fe1yj8IQZH7LaURIScw",
+        "alias": "alsur-café-y-backdoor-bar-barcelona-13",
+        "name": "Alsur Café & Backdoor Bar",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wL-FFPGSDiwYkheflP2vIw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/alsur-caf%C3%A9-y-backdoor-bar-barcelona-13?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 20,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            },
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 41.38576,
+            "longitude": 2.18518
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Carrer de la Ribera, 18",
+            "address2": "",
+            "address3": null,
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de la Ribera, 18",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34937977172",
+        "display_phone": "+34 937 97 71 72",
+        "distance": 1486.35020598272
+    },
+    {
+        "id": "Qky9IOnsdAulLZowSjM5-w",
+        "alias": "ziryab-shisha-hookah-lounge-barcelona",
+        "name": "Ziryab Shisha Hookah Lounge",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3sSsTPPDgs1q6JQrfYBTBQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ziryab-shisha-hookah-lounge-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 40,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            },
+            {
+                "alias": "hookah_bars",
+                "title": "Hookah Bars"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 41.3839552239155,
+            "longitude": 2.18028739850091
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer de Grunyí, 4",
+            "address2": null,
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Grunyí, 4",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 1428.0339364314248
+    },
+    {
+        "id": "Atm_x8BUy7LMW3JzfoDZtw",
+        "alias": "bobbys-free-barcelona",
+        "name": "Bobby's Free",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EW-VSSGGP8k9iAbSqsqPJg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bobbys-free-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 21,
+        "categories": [
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.389868,
+            "longitude": 2.170668
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Carrer de Pau Claris, 85",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08010",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Pau Claris, 85",
+                "08010 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34932779773",
+        "display_phone": "+34 932 77 97 73",
+        "distance": 2416.1660795883736
+    },
+    {
+        "id": "OOSI4ogQqfOTS98ONAAmtw",
+        "alias": "craft-barcelona-barcelona",
+        "name": "Craft Barcelona",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kTl4cPqN-VSrIAeZsThRQQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/craft-barcelona-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 20,
+        "categories": [
+            {
+                "alias": "tapas",
+                "title": "Tapas Bars"
+            },
+            {
+                "alias": "musicvenues",
+                "title": "Music Venues"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.38312,
+            "longitude": 2.17695
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Carrer del Paradis, 4",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08002",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer del Paradis, 4",
+                "08002 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34630072079",
+        "display_phone": "+34 630 07 20 79",
+        "distance": 1499.2407653356845
+    },
+    {
+        "id": "JMBeHAITBslCAsGynKwJZw",
+        "alias": "la-whiskeria-barcelona",
+        "name": "La Whiskeria",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xJppN3WyXXqAl9_5R-pMuQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/la-whiskeria-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 15,
+        "categories": [
+            {
+                "alias": "whiskeybars",
+                "title": "Whiskey Bars"
+            },
+            {
+                "alias": "lounges",
+                "title": "Lounges"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.384338,
+            "longitude": 2.169691
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer de les Sitges, 3",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08001",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de les Sitges, 3",
+                "08001 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933028146",
+        "display_phone": "+34 933 02 81 46",
+        "distance": 2023.1850722650306
+    },
+    {
+        "id": "OHtvB67pcAGxSYcElBIeKQ",
+        "alias": "one-ocean-club-barcelona",
+        "name": "One Ocean Club",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HQytY4H7RduFpWhOOHtDwQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/one-ocean-club-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 8,
+        "categories": [
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            },
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.380064,
+            "longitude": 2.186355
+        },
+        "transactions": [],
+        "price": "€€€",
+        "location": {
+            "address1": "Moll de la Barceloneta, 1",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08039",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Moll de la Barceloneta, 1",
+                "08039 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34934842315",
+        "display_phone": "+34 934 84 23 15",
+        "distance": 848.5710774861385
+    },
+    {
+        "id": "Tqad_RAD72gv0R7HCI99xQ",
+        "alias": "la-fianna-barcelona",
+        "name": "La Fianna",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cm2uK_rpaUDl9JJLM0n17Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/la-fianna-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 28,
+        "categories": [
+            {
+                "alias": "lounges",
+                "title": "Lounges"
+            },
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.3833715,
+            "longitude": 2.1803139
+        },
+        "transactions": [],
+        "price": "€€€",
+        "location": {
+            "address1": "Carrer de Manresa, 4",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Manresa, 4",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933151810",
+        "display_phone": "+34 933 15 18 10",
+        "distance": 1369.6837592255831
+    },
+    {
+        "id": "aVyDxCYg2kTLpaz_9DP6uQ",
+        "alias": "arcano-barcelona",
+        "name": "Arcano",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dvA4_HYJ2rPhR0sfDXUfgA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/arcano-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 292,
+        "categories": [
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            },
+            {
+                "alias": "argentine",
+                "title": "Argentine"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.384995,
+            "longitude": 2.1786544
+        },
+        "transactions": [],
+        "price": "€€€",
+        "location": {
+            "address1": "Carrer dels Mercaders, 10",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer dels Mercaders, 10",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34932956467",
+        "display_phone": "+34 932 95 64 67",
+        "distance": 1594.835839264377
+    },
+    {
+        "id": "uh-H6_WcVPSixgpAliVFpQ",
+        "alias": "the-alchemix-barcelona",
+        "name": "The Alchemix",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OZ_fxkKdsoaqn4CO1BemCg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-alchemix-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 32,
+        "categories": [
+            {
+                "alias": "gastropubs",
+                "title": "Gastropubs"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.389239,
+            "longitude": 2.1590484
+        },
+        "transactions": [],
+        "location": {
+            "address1": "Carrer de València, 212",
+            "address2": "",
+            "address3": null,
+            "city": "Barcelona",
+            "zip_code": "08011",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de València, 212",
+                "08011 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34938337678",
+        "display_phone": "+34 938 33 76 78",
+        "distance": 3056.8318633353797
+    },
+    {
+        "id": "NzCg_a3EfmoC4QC3FTO7Zw",
+        "alias": "hemingway-barcelona-2",
+        "name": "Hemingway",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/F0eac1GUA0SZJDVQwT4SoA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/hemingway-barcelona-2?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 18,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            },
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 41.38933,
+            "longitude": 2.15599
+        },
+        "transactions": [],
+        "price": "€€€",
+        "location": {
+            "address1": "Carrer de Muntaner, 114",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08036",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Muntaner, 114",
+                "08036 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34931296793",
+        "display_phone": "+34 931 29 67 93",
+        "distance": 3265.19999107753
+    },
+    {
+        "id": "pMlF1i4oFKFqeQccVu3LrA",
+        "alias": "boadas-barcelona",
+        "name": "Boadas",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YcEUTug9CB3dqUjqvdB_-Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/boadas-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 46,
+        "categories": [
+            {
+                "alias": "bars",
+                "title": "Bars"
+            },
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.38467,
+            "longitude": 2.17014
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer dels Tallers, 1",
+            "address2": null,
+            "address3": null,
+            "city": "Barcelona",
+            "zip_code": "08001",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer dels Tallers, 1",
+                "08001 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933189592",
+        "display_phone": "+34 933 18 95 92",
+        "distance": 2008.8117907225592
+    },
+    {
+        "id": "-tS1F9IohCk7QOMou3MotA",
+        "alias": "kælderkold-barcelona-2",
+        "name": "Kælderkold",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iBxmM3_i0YGNOUbFu5l_Dg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/k%C3%A6lderkold-barcelona-2?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 42,
+        "categories": [
+            {
+                "alias": "beerbar",
+                "title": "Beer Bar"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.3817889,
+            "longitude": 2.1733629
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer de Cardenal Casañas, 7",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08002",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Cardenal Casañas, 7",
+                "08002 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933024330",
+        "display_phone": "+34 933 02 43 30",
+        "distance": 1606.2923174204263
+    },
+    {
+        "id": "EJiBg4513KvRfZZ11KV9Eg",
+        "alias": "palau-de-la-música-catalana-barcelona-3",
+        "name": "Palau de la Música Catalana",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nhWCQ8ypkf8j4A6Ri8t5Yw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/palau-de-la-m%C3%BAsica-catalana-barcelona-3?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 123,
+        "categories": [
+            {
+                "alias": "theater",
+                "title": "Performing Arts"
+            },
+            {
+                "alias": "musicvenues",
+                "title": "Music Venues"
+            },
+            {
+                "alias": "culturalcenter",
+                "title": "Cultural Center"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.3874818982753,
+            "longitude": 2.17497814446688
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer del Palau de la Música, 4-6",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer del Palau de la Música, 4-6",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34932957200",
+        "display_phone": "+34 932 95 72 00",
+        "distance": 1991.4759937465503
+    },
+    {
+        "id": "Lvv0SmZzIsnxPa38lggnuw",
+        "alias": "alaire-barcelona",
+        "name": "Alaire",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QiWEY2QzhMxBRP3cOKPzVw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/alaire-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 2,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 41.3799209,
+            "longitude": 2.1728181
+        },
+        "transactions": [],
+        "location": {
+            "address1": "Carrer de Sant Pau, 9-11",
+            "address2": "",
+            "address3": null,
+            "city": "Barcelona",
+            "zip_code": "08001",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Sant Pau, 9-11",
+                "08001 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 1520.2581294732827
+    },
+    {
+        "id": "LcfmiFsMut3X4yWSg6suPQ",
+        "alias": "alsur-café-barcelona-35",
+        "name": "Alsur Café",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/G3sdTbPUbBdep4sDt7dZhg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/alsur-caf%C3%A9-barcelona-35?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 325,
+        "categories": [
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            },
+            {
+                "alias": "cafeteria",
+                "title": "Cafeteria"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.3910964,
+            "longitude": 2.1713864
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Carrer de Roger de Llúria, 23",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08010",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Roger de Llúria, 23",
+                "08010 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34936241577",
+        "display_phone": "+34 936 24 15 77",
+        "distance": 2492.180641028345
+    },
+    {
+        "id": "oHVrb2cmHhzwgYtxXhJVsA",
+        "alias": "bar-brutal-barcelona-2",
+        "name": "Bar Brutal",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XUcz_Zq2Hux8QJM9_9zUew/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bar-brutal-barcelona-2?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 31,
+        "categories": [
+            {
+                "alias": "wine_bars",
+                "title": "Wine Bars"
+            },
+            {
+                "alias": "tapas",
+                "title": "Tapas Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.38476,
+            "longitude": 2.179823
+        },
+        "transactions": [],
+        "price": "€€€",
+        "location": {
+            "address1": "Carrer Barra de Ferro, 1",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer Barra de Ferro, 1",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34932954797",
+        "display_phone": "+34 932 95 47 97",
+        "distance": 1525.325032032369
+    },
+    {
+        "id": "ghuoPVpu_OmPf7RuyH1jYg",
+        "alias": "el-tabernito-barcelona",
+        "name": "El Tabernito",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JFn46xRYDaUPUDU1-kP4xg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-tabernito-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 3,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 41.37648,
+            "longitude": 2.15494
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Carrer d'Entença, 22",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08015",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer d'Entença, 22",
+                "08015 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34687303787",
+        "display_phone": "+34 687 30 37 87",
+        "distance": 2802.473302547082
+    },
+    {
+        "id": "wtkTWLtHuebKyYaUTPGTTQ",
+        "alias": "el-chiringuito-barcelona",
+        "name": "El Chiringuito",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/B6nyEnlrakxzS40_9oX9pQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-chiringuito-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 1,
+        "categories": [
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 41.375426,
+            "longitude": 2.190332
+        },
+        "transactions": [],
+        "location": {
+            "address1": "Plaça del Mar, s/n",
+            "address2": "",
+            "address3": null,
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Plaça del Mar, s/n",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34639939322",
+        "display_phone": "+34 639 93 93 22",
+        "distance": 366.80623433553785
+    },
+    {
+        "id": "ZABFPX0rWT22g1oOHNFRYw",
+        "alias": "moma-barcelona-3",
+        "name": "moma",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_2ZJP68D-RRUILYXqD5Z-g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/moma-barcelona-3?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 4,
+        "categories": [
+            {
+                "alias": "beachbars",
+                "title": "Beach Bars"
+            },
+            {
+                "alias": "tapas",
+                "title": "Tapas Bars"
+            }
+        ],
+        "rating": 2.0,
+        "coordinates": {
+            "latitude": 41.3745142532072,
+            "longitude": 2.19000446174325
+        },
+        "transactions": [],
+        "location": {
+            "address1": "Carrer de Sant Sebastià",
+            "address2": null,
+            "address3": null,
+            "city": "Barcelona",
+            "zip_code": "08030",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Sant Sebastià",
+                "08030 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 266.3936244692701
+    },
+    {
+        "id": "9xyg23WaMTJwCTV4TjmI4A",
+        "alias": "collage-barcelona-2",
+        "name": "Collage",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/N4mCyu3YA_eWFYGqR22Nkw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/collage-barcelona-2?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 36,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.3825962017409,
+            "longitude": 2.18149386078669
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Calle Consellers, 4",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Calle Consellers, 4",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34931793785",
+        "display_phone": "+34 931 79 37 85",
+        "distance": 1247.7001911081288
+    },
+    {
+        "id": "Z5kbljidobFa8_W50a3gjQ",
+        "alias": "xixbar-barcelona-2",
+        "name": "Xixbar",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qn-9G0n8K0FHXLh6ude0Sg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/xixbar-barcelona-2?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 26,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            },
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            },
+            {
+                "alias": "lounges",
+                "title": "Lounges"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.37585,
+            "longitude": 2.15769
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer de Rocafort, 19",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08015",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Rocafort, 19",
+                "08015 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34934234314",
+        "display_phone": "+34 934 23 43 14",
+        "distance": 2578.645226271034
+    },
+    {
+        "id": "9UjNrODGKuoDe9XcbwC1uQ",
+        "alias": "the-rooftop-barcelona",
+        "name": "The Rooftop",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CMYQnfUEUkyH54_0ba1xXQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-rooftop-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 1,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 41.39623,
+            "longitude": 2.16099
+        },
+        "transactions": [],
+        "location": {
+            "address1": "Carrer del Rosselló, 265",
+            "address2": null,
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08008",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer del Rosselló, 265",
+                "08008 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34932711244",
+        "display_phone": "+34 932 71 12 44",
+        "distance": 3474.280056909511
+    },
+    {
+        "id": "5qEXGb49y-p6kNt1GzEdyw",
+        "alias": "marula-café-barcelona-2",
+        "name": "Marula Café",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cVaFMmhu-5o3Jpf0hTpPzQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/marula-caf%C3%A9-barcelona-2?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 18,
+        "categories": [
+            {
+                "alias": "danceclubs",
+                "title": "Dance Clubs"
+            },
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.380159,
+            "longitude": 2.176852
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer dels Escudellers, 49",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08002",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer dels Escudellers, 49",
+                "08002 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933187690",
+        "display_phone": "+34 933 18 76 90",
+        "distance": 1267.4326873714456
+    },
+    {
+        "id": "fILvTG0pB1cTyudb5md4PA",
+        "alias": "black-lab-barcelona",
+        "name": "Black Lab",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/w3JqGd7l7K6TKt1nhk7HVg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/black-lab-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 83,
+        "categories": [
+            {
+                "alias": "burgers",
+                "title": "Burgers"
+            },
+            {
+                "alias": "breweries",
+                "title": "Breweries"
+            },
+            {
+                "alias": "gastropubs",
+                "title": "Gastropubs"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.38113,
+            "longitude": 2.18579
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Plaça Pau Vila, 1",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08039",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Plaça Pau Vila, 1",
+                "08039 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34932218360",
+        "display_phone": "+34 932 21 83 60",
+        "distance": 959.6631761249969
+    },
+    {
+        "id": "OmAa2kJbr2q17-sFYJDO_A",
+        "alias": "cactus-bar-barcelona",
+        "name": "Cactus Bar",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yysFqxo6_knpcTuTkgxgAA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/cactus-bar-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 11,
+        "categories": [
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.38484,
+            "longitude": 2.182981
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Passeig del Born, 30",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Passeig del Born, 30",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933106354",
+        "display_phone": "+34 933 10 63 54",
+        "distance": 1432.9566485388134
+    },
+    {
+        "id": "NluxIXi64gm5p9G6j9Xe_w",
+        "alias": "el-jardín-del-edén-barcelona",
+        "name": "El Jardín del Edén",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/f8nQtnQm7t1u4Y_4RMDeqQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-jard%C3%ADn-del-ed%C3%A9n-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 16,
+        "categories": [
+            {
+                "alias": "tapas",
+                "title": "Tapas Bars"
+            },
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.38521,
+            "longitude": 2.16784
+        },
+        "transactions": [],
+        "location": {
+            "address1": "Carrer de Jovellanos, 3",
+            "address2": null,
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08001",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer de Jovellanos, 3",
+                "08001 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34930026546",
+        "display_phone": "+34 930 02 65 46",
+        "distance": 2203.663324587955
+    },
+    {
+        "id": "lWrY2eON1BGbfP8nesPq_g",
+        "alias": "flahertys-barcelona-9",
+        "name": "Flaherty's",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aJTB9en_RrObOpTMp3nTOg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/flahertys-barcelona-9?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 41,
+        "categories": [
+            {
+                "alias": "burgers",
+                "title": "Burgers"
+            },
+            {
+                "alias": "irish_pubs",
+                "title": "Irish Pub"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.3784405,
+            "longitude": 2.17677
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Plaça de Joaquim Xirau, s/n",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08002",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Plaça de Joaquim Xirau, s/n",
+                "08002 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34934126263",
+        "display_phone": "+34 934 12 62 63",
+        "distance": 1154.4445133248857
+    },
+    {
+        "id": "gBaoBrGuxvZ-fx8Fqpiaww",
+        "alias": "el-born-barcelona",
+        "name": "El Born",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vk6ZtunWF4vQxYKlb_Z6kQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-born-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 17,
+        "categories": [
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.3847499,
+            "longitude": 2.18294
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Passeig del Born, 26",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Passeig del Born, 26",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34933195333",
+        "display_phone": "+34 933 19 53 33",
+        "distance": 1420.9156389062246
+    },
+    {
+        "id": "3Fy5lwZ0fMufpkF-IxM7Qg",
+        "alias": "boca-chica-barcelona",
+        "name": "Boca Chica",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kOAVubA6hJz-vMg5UND_1g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/boca-chica-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 27,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.394518,
+            "longitude": 2.1598554
+        },
+        "transactions": [],
+        "price": "€€€",
+        "location": {
+            "address1": "Passatge de la Concepcio, 12",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Passatge de la Concepcio, 12",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34934675149",
+        "display_phone": "+34 934 67 51 49",
+        "distance": 3397.602200247324
+    },
+    {
+        "id": "A5ybB2ZKQqyBz1pe2_OXSg",
+        "alias": "chill-bar-barcelona",
+        "name": "Chill Bar",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fBoixcXh05zUiB7FKewY9g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/chill-bar-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 142,
+        "categories": [
+            {
+                "alias": "tapas",
+                "title": "Tapas Bars"
+            },
+            {
+                "alias": "gastropubs",
+                "title": "Gastropubs"
+            },
+            {
+                "alias": "burgers",
+                "title": "Burgers"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 41.4024951623078,
+            "longitude": 2.17181160881923
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Carrer Provença, 424",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08025",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer Provença, 424",
+                "08025 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34934762270",
+        "display_phone": "+34 934 76 22 70",
+        "distance": 3597.9839301525603
+    },
+    {
+        "id": "2rEb2V_HLE-xfhWCnC3dww",
+        "alias": "espit-chupitos-barcelona",
+        "name": "Espit Chupitos",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3IUwc2H4Nyc0MR7P8-OH-Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/espit-chupitos-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 64,
+        "categories": [
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.389325,
+            "longitude": 2.157917
+        },
+        "transactions": [],
+        "price": "€",
+        "location": {
+            "address1": "Carrer d'Aribau, 77",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08036",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer d'Aribau, 77",
+                "08036 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34699773674",
+        "display_phone": "+34 699 77 36 74",
+        "distance": 3138.0513811513497
+    },
+    {
+        "id": "z_gPEJI2NmTWzm2IPSdBgA",
+        "alias": "the-lime-house-barcelona",
+        "name": "The Lime House",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/i3YMmCFM80I8TZqJaOilYg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-lime-house-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+        "review_count": 13,
+        "categories": [
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 41.386988,
+            "longitude": 2.180304
+        },
+        "transactions": [],
+        "price": "€€",
+        "location": {
+            "address1": "Carrer dels Carders, 31",
+            "address2": "",
+            "address3": "",
+            "city": "Barcelona",
+            "zip_code": "08003",
+            "country": "ES",
+            "state": "B",
+            "display_address": [
+                "Carrer dels Carders, 31",
+                "08003 Barcelona",
+                "Spain"
+            ]
+        },
+        "phone": "+34671441888",
+        "display_phone": "+34 671 44 18 88",
+        "distance": 1733.8263450645645
+    }
+]
