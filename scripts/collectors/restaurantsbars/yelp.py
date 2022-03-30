@@ -41,7 +41,7 @@ def get_businesses(terms, neighborhoods):
             for offset in range(0, 100, 50):
                 params = {
                     'limit': 50,
-                    'location': f'{location}, Barcelona'.replace(' ', '+'),
+                    'location': f'{location}, Barcelona, Spain'.replace(' ', '+'),
                     'term': term.replace(' ', '+'),
                     'offset': offset
                 }
