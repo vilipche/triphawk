@@ -54,7 +54,7 @@ def get_businesses(terms, neighborhoods):
                     print('400 Bad Request')
                     break
 
-            to_csv(data, f'../../../data/restaurantsbars/{term}_{str(location.replace(" ", ""))}_{date.today().strftime("%Y%m%d")}')
+            to_csv(data, f'/home/bdm/triphawk/data/restaurantsbars/{term}_{str(location.replace(" ", ""))}_{date.today().strftime("%Y%m%d")}')
     return data
 
 

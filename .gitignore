@@ -3,3 +3,5 @@ credentials/keys.py
 .git
 venv/
 data/*
+__pycache__
+.vscode
