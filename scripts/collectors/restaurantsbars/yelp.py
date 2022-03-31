@@ -37,17 +37,24 @@ def fetch_business(terms, neighborhoods, api_key):
     url = 'https://api.yelp.com/v3/businesses/search'
 
     current_date = date.today().strftime("%Y%m%d")
-    new_dir = f'/home/bdm/triphawk/data/attractions/{current_date}'
-    print(current_date)
+    new_dir = f'/home/bdm/triphawk/data/businesses/{current_date}'
+
     # create a new directory if it doesn't exist 
     # sometimes we have to run it twice in a day
-    if(os.path.isdir(new_dir) == False):
-        os.mkdir(new_dir)
+    # if(os.path.isdir(new_dir) == False):
+    #     print(f'creating: {new_dir}')
+    #     os.mkdir(new_dir)
+
+    try:
+        os.makedirs(f'{new_dir}/bar')
+        os.makedirs(f'{new_dir}/restaurant')
+    except FileExistsError:
+        print("Folders already exist")
 
     for term in terms:
         for location in neighborhoods:
             data = []
-            for offset in range(0, 1000, 50):
+            for offset in range(0, 100, 50):
                 params = {
                     'limit': 50,
                     'location': f'{location}, Barcelona, Spain'.replace(' ', '+'),
@@ -59,18 +66,18 @@ def fetch_business(terms, neighborhoods, api_key):
 
                 if response.status_code == 200:
                     data += response.json()['businesses']
-                    print(f'PRINTING: {offset}_{term}_{location}_{date.today().strftime("%Y%m%d")}')
                 elif response.status_code == 400:
                     print('400 Bad Request')
                     break
-            
-            to_csv(data, f'/home/bdm/triphawk/data/attractions/{term}_{str(location.replace(" ", ""))}_{current_date}')
+
+            print(f'Creating: {term}_{location}_{date.today().strftime("%Y%m%d")}')
+
+            to_csv(data, f'{new_dir}/{term}/{term}_{str(location.replace(" ", ""))}_{current_date}')
 
     return data
 
-
 def get_businesses():
     print("fetching business")
-    fetch_business(terms, neighborhoods, api_key)
+    fetch_business(terms, neighborhoods[:2], api_key)
 
 get_businesses()
