@@ -54,7 +54,7 @@ def fetch_business(terms, neighborhoods, api_key):
     for term in terms:
         for location in neighborhoods:
             data = []
-            for offset in range(0, 100, 50):
+            for offset in range(0, 1000, 50):
                 params = {
                     'limit': 50,
                     'location': f'{location}, Barcelona, Spain'.replace(' ', '+'),
@@ -78,6 +78,6 @@ def fetch_business(terms, neighborhoods, api_key):
 
 def get_businesses():
     print("fetching business")
-    fetch_business(terms, neighborhoods[:2], api_key)
+    fetch_business(terms, neighborhoods, api_key)
 
 get_businesses()
