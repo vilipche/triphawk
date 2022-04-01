@@ -26,6 +26,6 @@ def create_directory_hdfs(directory_path):
     return True
 
 def add_file_to_hdfs(path, file_name, json_object):
-    with client.write('/user/bdm/data/model.json', encoding='utf-8') as writer:
+    with client.write(f'{path}{file_name}', encoding='utf-8') as writer:
         json.dump(json_object, writer)
     return True
