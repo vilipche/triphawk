@@ -3,6 +3,7 @@ import json
 import os
 from datetime import date
 from credentials import keys
+from scripts.loaders import loader
 
 api_key = keys.api['foursquare']['api_key']
 
@@ -59,6 +60,9 @@ def fetch_attractions(location, api_key):
         response = requests.get(url, headers=headers, params=params)
         if response.status_code == 200:
             data += response.json()['results']
+            print(type(response.json()['results']))
+            print(type(data))
+            return
             print("getting")
         elif response.status_code == 400:
             print('400 Bad Request')
