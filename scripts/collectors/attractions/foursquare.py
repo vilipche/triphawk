@@ -1,9 +1,7 @@
 import requests
-import json
-import os
 from datetime import date
 from credentials import keys
-from scripts.loaders import loader
+from scripts.temp_loaders import loader
 
 api_key = keys.api['foursquare']['api_key']
 
@@ -29,6 +27,7 @@ neighborhoods = [    'Barceloneta',
     "Sants",
     "Sarrià - Sant Gervasi"]
 
+#TODO if we have time, refactor the code, fetch in one, load in other function
 
 def fetch_attractions(location, api_key):
     headers = {
@@ -63,7 +62,7 @@ def fetch_attractions(location, api_key):
             print(location)
             res = response.json()['results']
             
-            loader.add_json_to_hdfs(new_dir, f"{location}.json", {'key': res})
+            loader.add_json_to_hdfs(new_dir, f"{location}.json", {f'{location}': res})
 
         elif response.status_code == 400:
             print('400 Bad Request')
