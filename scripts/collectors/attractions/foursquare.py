@@ -30,10 +30,6 @@ neighborhoods = [    'Barceloneta',
     "Sarrià - Sant Gervasi"]
 
 
-def to_json(data, file_name):
-    with open(f'{file_name}.json', 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
-
 def fetch_attractions(location, api_key):
     headers = {
         "Accept": "application/json",
@@ -42,16 +38,14 @@ def fetch_attractions(location, api_key):
     url = 'https://api.foursquare.com/v3/places/search'
 
     current_date = date.today().strftime("%Y%m%d")
-    new_dir = f'/user/bdm/triphawk/data/attractions/{current_date}'
+    new_dir = f'/user/bdm/triphawk/data/attractions/{current_date}/'
 
     try:
         loader.create_directory_hdfs(f'{new_dir}')
-    except FileExistsError:
+    except:
         print("Folders already exist")
 
-    data = []
     for location in neighborhoods:
-        
         params = {
             'categories': 16000, # attractions code
             'limit': 50,
@@ -59,21 +53,21 @@ def fetch_attractions(location, api_key):
             'fields': fields
         }
         response = requests.get(url, headers=headers, params=params)
+
+        try:
+            loader.create_directory_hdfs(new_dir)
+        except:
+            print("ERROR: Directory already exist")
+
         if response.status_code == 200:
-            data += response.json()['results']
-            print(type(response.json()['results']))
-            print(type(data))
-            #TODO from json to file
-            json_obj = json.dumps({'key': data})
-            return
-            print("getting")
+            print(location)
+            res = response.json()['results']
+            
+            loader.add_json_to_hdfs(new_dir, f"{location}.json", {'key': res})
+
         elif response.status_code == 400:
             print('400 Bad Request')
             break
-        print(location)
-
-
-        to_json(data, f'{new_dir}/{str(location.replace(" ", ""))}_{current_date}')
 
 def get_attractions():
     print("fetching attractions")
