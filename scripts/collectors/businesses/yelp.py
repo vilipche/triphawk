@@ -3,6 +3,7 @@ import json
 import os
 from datetime import date
 from credentials import keys
+from scripts.loaders import loader
 
 api_key = keys.api['yelp']['api_key']
 
@@ -28,32 +29,24 @@ neighborhoods = [    'Barceloneta',
     "Sarrià - Sant Gervasi"]
 terms = ['bar', 'restaurant']
 
-def to_csv(data, file_name):
-    with open(f'{file_name}.json', 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
 
 def fetch_business(terms, neighborhoods, api_key):
     headers = {'Authorization': 'Bearer %s' % api_key}
     url = 'https://api.yelp.com/v3/businesses/search'
 
     current_date = date.today().strftime("%Y%m%d")
-    new_dir = f'/home/bdm/triphawk/data/businesses/{current_date}'
-
-    # create a new directory if it doesn't exist 
-    # sometimes we have to run it twice in a day
-    # if(os.path.isdir(new_dir) == False):
-    #     print(f'creating: {new_dir}')
-    #     os.mkdir(new_dir)
+    new_dir = f'/user/bdm/triphawk/data/businesses/{current_date}'
 
     try:
-        os.makedirs(f'{new_dir}/bar')
-        os.makedirs(f'{new_dir}/restaurant')
-    except FileExistsError:
+        loader.create_directory_hdfs(f'{new_dir}')
+    except:
         print("Folders already exist")
 
-    for term in terms:
-        for location in neighborhoods:
+
+    for location in neighborhoods:
+        for term in terms:
             data = []
+            print(f'{term}_{location}')
             for offset in range(0, 1000, 50):
                 params = {
                     'limit': 50,
@@ -70,9 +63,7 @@ def fetch_business(terms, neighborhoods, api_key):
                     print('400 Bad Request')
                     break
 
-            print(f'Creating: {term}_{location}_{date.today().strftime("%Y%m%d")}')
-
-            to_csv(data, f'{new_dir}/{term}/{term}_{str(location.replace(" ", ""))}_{current_date}')
+            loader.add_json_to_hdfs(f'{new_dir}/{term}/', f"{term}_{location}_{current_date}.json", {'key': data})
 
     return data
 
