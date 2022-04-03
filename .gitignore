@@ -2,6 +2,5 @@ credentials/keys.py
 .idea
 .git
 env/
-data/*
 __pycache__
 .vscode

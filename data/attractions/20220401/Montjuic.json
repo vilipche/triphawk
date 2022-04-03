@@ -1,0 +1,3084 @@
+{
+    "data":[
+       {
+          "fsq_id":"4b8a8de9f964a520097232e3",
+          "categories":[
+             {
+                "id":16032,
+                "name":"Park",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":188,
+          "geocodes":{
+             "main":{
+                "latitude":41.368267,
+                "longitude":2.167415
+             },
+             "roof":{
+                "latitude":41.368267,
+                "longitude":2.167415
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Av. Miramar",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"Pl. Dante",
+             "formatted_address":"Av. Miramar (Pl. Dante), 08038 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"08038",
+             "region":"Catalonia"
+          },
+          "name":"Jardines de Joan Brossa",
+          "popularity":0.9939124892864207,
+          "rating":9.1,
+          "related_places":{
+             "parent":{
+                "fsq_id":"4d26c189342d6dcbb4c3e6ca",
+                "name":"Muntanya de Montjuïc"
+             },
+             "children":[
+                
+             ]
+          },
+          "social_media":{
+             
+          },
+          "tel":"934 02 70 00",
+          "timezone":"Europe/Madrid",
+          "website":"http://www.bcn.es/publicacions/b_informacio/bi_64/bi_64_8.htm"
+       },
+       {
+          "fsq_id":"51e2eaef498e328af1bf1f76",
+          "categories":[
+             {
+                "id":16046,
+                "name":"Scenic Lookout",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "distance":263,
+          "geocodes":{
+             "main":{
+                "latitude":41.367452,
+                "longitude":2.169657
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Ctra. Montjuïc, s/n",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"",
+             "formatted_address":"Ctra. Montjuïc, s/n, Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"",
+             "region":"Catalonia"
+          },
+          "name":"Mirador de l'Alcalde",
+          "popularity":0.9717381271564512,
+          "rating":9.2,
+          "related_places":{
+             
+          },
+          "social_media":{
+             "twitter":""
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"4db91a5093a0f369e867d258",
+          "categories":[
+             {
+                "id":16032,
+                "name":"Park",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":220,
+          "geocodes":{
+             "main":{
+                "latitude":41.367566,
+                "longitude":2.164424
+             }
+          },
+          "hours":{
+             "display":"Open Daily 10:00-21:00",
+             "is_local_holiday":false,
+             "open_now":true,
+             "regular":[
+                {
+                   "close":"2100",
+                   "day":1,
+                   "open":"1000"
+                },
+                {
+                   "close":"2100",
+                   "day":2,
+                   "open":"1000"
+                },
+                {
+                   "close":"2100",
+                   "day":3,
+                   "open":"1000"
+                },
+                {
+                   "close":"2100",
+                   "day":4,
+                   "open":"1000"
+                },
+                {
+                   "close":"2100",
+                   "day":5,
+                   "open":"1000"
+                },
+                {
+                   "close":"2100",
+                   "day":6,
+                   "open":"1000"
+                },
+                {
+                   "close":"2100",
+                   "day":7,
+                   "open":"1000"
+                }
+             ],
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Jardins de Mossèn Cinto Verdaguer, Carrer Dels Tarongers",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "formatted_address":"Jardins de Mossèn Cinto Verdaguer, Carrer Dels Tarongers, 08038 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"08038",
+             "region":"Catalonia"
+          },
+          "name":"Jardines de Mossèn Cinto Verdaguer",
+          "popularity":0.9913778578701771,
+          "rating":8.9,
+          "related_places":{
+             "parent":{
+                "fsq_id":"4d26c189342d6dcbb4c3e6ca",
+                "name":"Muntanya de Montjuïc"
+             }
+          },
+          "social_media":{
+             
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"4adcda50f964a520604121e3",
+          "categories":[
+             {
+                "id":16032,
+                "name":"Park",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":244,
+          "geocodes":{
+             "main":{
+                "latitude":41.367692,
+                "longitude":2.169082
+             }
+          },
+          "hours":{
+             "display":"Open Daily 00:00-23:59",
+             "is_local_holiday":false,
+             "open_now":true,
+             "regular":[
+                {
+                   "close":"2359",
+                   "day":1,
+                   "open":"0000"
+                },
+                {
+                   "close":"2359",
+                   "day":2,
+                   "open":"0000"
+                },
+                {
+                   "close":"2359",
+                   "day":3,
+                   "open":"0000"
+                },
+                {
+                   "close":"2359",
+                   "day":4,
+                   "open":"0000"
+                },
+                {
+                   "close":"2359",
+                   "day":5,
+                   "open":"0000"
+                },
+                {
+                   "close":"2359",
+                   "day":6,
+                   "open":"0000"
+                },
+                {
+                   "close":"2359",
+                   "day":7,
+                   "open":"0000"
+                }
+             ],
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Plaça del Mirador",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "formatted_address":"Plaça del Mirador, 08038 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "neighborhood":[
+                "Montjuic"
+             ],
+             "postcode":"08038",
+             "region":"Catalonia"
+          },
+          "name":"Jardins del Mirador",
+          "popularity":0.9855613915566007,
+          "rating":8.9,
+          "related_places":{
+             "parent":{
+                "fsq_id":"4d26c189342d6dcbb4c3e6ca",
+                "name":"Muntanya de Montjuïc"
+             }
+          },
+          "social_media":{
+             
+          },
+          "timezone":"Europe/Madrid",
+          "website":"http://ajuntament.barcelona.cat/ecologiaurbana"
+       },
+       {
+          "fsq_id":"4d26c189342d6dcbb4c3e6ca",
+          "categories":[
+             {
+                "id":16000,
+                "name":"Landmarks and Outdoors",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":440,
+          "geocodes":{
+             "main":{
+                "latitude":41.365021,
+                "longitude":2.16186
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Montjuïc",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "formatted_address":"Montjuïc, 08038 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "neighborhood":[
+                "Montjuïc"
+             ],
+             "postcode":"08038",
+             "region":"Catalonia"
+          },
+          "name":"Montjuïc Mountain (Montaña de Montjuïc)",
+          "popularity":0.9999560468540536,
+          "rating":9.4,
+          "related_places":{
+             "children":[
+                {
+                   "fsq_id":"4db91a5093a0f369e867d258",
+                   "name":"Jardines de Mossèn Cinto Verdaguer"
+                },
+                {
+                   "fsq_id":"4db0588ccda14b702a31070f",
+                   "name":"Parc de Montjuic"
+                }
+             ]
+          },
+          "social_media":{
+             
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"502a8f69e4b022b4b562c457",
+          "categories":[
+             {
+                "id":16017,
+                "name":"Garden",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "distance":546,
+          "geocodes":{
+             "main":{
+                "latitude":41.369573,
+                "longitude":2.172445
+             },
+             "roof":{
+                "latitude":41.369573,
+                "longitude":2.172445
+             }
+          },
+          "hours":{
+             "display":"Open Daily 10:00-21:00",
+             "is_local_holiday":false,
+             "open_now":true,
+             "regular":[
+                {
+                   "close":"2100",
+                   "day":1,
+                   "open":"1000"
+                },
+                {
+                   "close":"2100",
+                   "day":2,
+                   "open":"1000"
+                },
+                {
+                   "close":"2100",
+                   "day":3,
+                   "open":"1000"
+                },
+                {
+                   "close":"2100",
+                   "day":4,
+                   "open":"1000"
+                },
+                {
+                   "close":"2100",
+                   "day":5,
+                   "open":"1000"
+                },
+                {
+                   "close":"2100",
+                   "day":6,
+                   "open":"1000"
+                },
+                {
+                   "close":"2100",
+                   "day":7,
+                   "open":"1000"
+                }
+             ],
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Carretera Miramar, s/n",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"",
+             "formatted_address":"Carretera Miramar, s/n, 08038 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "neighborhood":[
+                "El Poble Sec"
+             ],
+             "postcode":"08038",
+             "region":"Catalonia"
+          },
+          "name":"Jardins de Mossèn Costa i Llobera",
+          "popularity":0.9726391666483528,
+          "rating":9.1,
+          "related_places":{
+             
+          },
+          "social_media":{
+             "twitter":""
+          },
+          "timezone":"Europe/Madrid",
+          "website":"http://www.bcn.es/turisme/english/turisme/welcome.htm"
+       },
+       {
+          "fsq_id":"4df39957d22d8c5470de523a",
+          "categories":[
+             {
+                "id":16017,
+                "name":"Garden",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":713,
+          "geocodes":{
+             "main":{
+                "latitude":41.368332,
+                "longitude":2.158337
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Passeig de Santa Madrona",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "formatted_address":"Passeig de Santa Madrona, 08038 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "neighborhood":[
+                "Esquerra Eixample"
+             ],
+             "postcode":"08038",
+             "region":"Catalonia"
+          },
+          "name":"Jardines de Laribal",
+          "popularity":0.9915609959782872,
+          "rating":9.3,
+          "related_places":{
+             "parent":{
+                "fsq_id":"4d26c189342d6dcbb4c3e6ca",
+                "name":"Muntanya de Montjuïc"
+             }
+          },
+          "social_media":{
+             
+          },
+          "tel":"932 89 04 04",
+          "timezone":"Europe/Madrid",
+          "website":"http://meet.barcelona.cat/fr/decouvrez-barcelone/districts/sants-montjuic/jardins-laribal"
+       },
+       {
+          "fsq_id":"4cdeddd2f8cdb1f7c5eb8d12",
+          "categories":[
+             {
+                "id":16046,
+                "name":"Scenic Lookout",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "distance":479,
+          "geocodes":{
+             "main":{
+                "latitude":41.370384,
+                "longitude":2.169588
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"",
+             "formatted_address":"08004 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"08004",
+             "region":"Catalonia"
+          },
+          "name":"Passeig de Miramar",
+          "popularity":0.9870704495674278,
+          "rating":8.6,
+          "related_places":{
+             
+          },
+          "social_media":{
+             "twitter":""
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"50f42b92e4b0c827052b23f3",
+          "categories":[
+             {
+                "id":16017,
+                "name":"Garden",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "distance":641,
+          "geocodes":{
+             "main":{
+                "latitude":41.370623,
+                "longitude":2.171998
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Pg. de Montjuïc",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"",
+             "formatted_address":"Pg. de Montjuïc, Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"",
+             "region":"Catalonia"
+          },
+          "name":"Jardins de Miramar",
+          "popularity":0.9809756133295241,
+          "rating":8.9,
+          "related_places":{
+             "parent":{
+                "fsq_id":"4d26c189342d6dcbb4c3e6ca",
+                "name":"Muntanya de Montjuïc"
+             }
+          },
+          "social_media":{
+             "twitter":""
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"5205104c11d29b25af6869ac",
+          "categories":[
+             {
+                "id":16032,
+                "name":"Park",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "distance":708,
+          "geocodes":{
+             "main":{
+                "latitude":41.369498,
+                "longitude":2.15905
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Pg. Santa Madrona",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"",
+             "formatted_address":"Pg. Santa Madrona, Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"",
+             "region":"Catalonia"
+          },
+          "name":"Jardins del Teatre Grec",
+          "popularity":0.971225340453743,
+          "rating":9.0,
+          "related_places":{
+             "parent":{
+                "fsq_id":"4d26c189342d6dcbb4c3e6ca",
+                "name":"Muntanya de Montjuïc"
+             }
+          },
+          "social_media":{
+             "twitter":""
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"4e9550ab9a526ce9d8bad3b8",
+          "categories":[
+             {
+                "id":16032,
+                "name":"Park",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":593,
+          "geocodes":{
+             "main":{
+                "latitude":41.372474,
+                "longitude":2.17271
+             },
+             "roof":{
+                "latitude":41.372474,
+                "longitude":2.17271
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Ctr. de Miramar",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"Pg. de Montjuïc",
+             "formatted_address":"Ctr. de Miramar (Pg. de Montjuïc), 08038 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "neighborhood":[
+                "El Poble Sec"
+             ],
+             "postcode":"08038",
+             "region":"Catalonia"
+          },
+          "name":"Parc del Mirador del Poble Sec",
+          "popularity":0.9907185606809807,
+          "rating":8.5,
+          "related_places":{
+             "parent":{
+                "fsq_id":"4d26c189342d6dcbb4c3e6ca",
+                "name":"Muntanya de Montjuïc"
+             }
+          },
+          "social_media":{
+             
+          },
+          "tel":"933 29 75 85",
+          "timezone":"Europe/Madrid",
+          "website":"http://www.bcn.cat/mediambient"
+       },
+       {
+          "fsq_id":"4e09ade11f6e2110339b0b32",
+          "categories":[
+             {
+                "id":16047,
+                "name":"Sculpture Garden",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sculpture_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":585,
+          "geocodes":{
+             "main":{
+                "latitude":41.368989,
+                "longitude":2.160365
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Avenida Miramar, 1",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "formatted_address":"Avenida Miramar, 1, 08038 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"08038",
+             "region":"Catalonia"
+          },
+          "name":"Jardí de la Fundació Joan Miró",
+          "popularity":0.995260385762111,
+          "rating":8.5,
+          "related_places":{
+             "parent":{
+                "fsq_id":"4bb79a0a98c7ef3bc90a3002",
+                "name":"Fundació Joan Miró"
+             }
+          },
+          "social_media":{
+             
+          },
+          "timezone":"Europe/Madrid",
+          "website":"http://www.fundaciomiro-bcn.org"
+       },
+       {
+          "fsq_id":"4e68f5a645dd6cc5bd382653",
+          "categories":[
+             {
+                "id":16024,
+                "name":"Lighthouse",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/lighthouse_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":635,
+          "geocodes":{
+             "main":{
+                "latitude":41.361002,
+                "longitude":2.166143
+             },
+             "roof":{
+                "latitude":41.361002,
+                "longitude":2.166143
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Camí del Far, 1",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "formatted_address":"Camí del Far, 1, 08038 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"08038",
+             "region":"Catalonia"
+          },
+          "name":"Far de Montjuïc",
+          "popularity":0.9562519687346622,
+          "rating":8.4,
+          "related_places":{
+             
+          },
+          "social_media":{
+             
+          },
+          "tel":"934 41 49 83",
+          "timezone":"Europe/Madrid",
+          "website":"http://barcelonaturisme.com/Far-de-Montjuic/_3Ngb8YjSpL3U56ScBHOWcxpDev_Vr2xeXIIsTu_Ae7Oc_TD9ThhoU7qLe4meI51u"
+       },
+       {
+          "fsq_id":"5453c6cf498e75ddfe254ab2",
+          "categories":[
+             {
+                "id":16032,
+                "name":"Park",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "distance":1119,
+          "geocodes":{
+             "main":{
+                "latitude":41.362557,
+                "longitude":2.154415
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Passeig Olímpic",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"",
+             "formatted_address":"Passeig Olímpic, Barcelona Catalonia",
+             "locality":"Barcelona",
+             "neighborhood":[
+                "Parc de Montjuïc"
+             ],
+             "postcode":"",
+             "region":"Catalonia"
+          },
+          "name":"Parc de Montjuïc",
+          "popularity":0.9921909910701858,
+          "rating":9.3,
+          "related_places":{
+             "parent":{
+                "fsq_id":"4d26c189342d6dcbb4c3e6ca",
+                "name":"Muntanya de Montjuïc"
+             },
+             "children":[
+                {
+                   "fsq_id":"61218eb7076ec67cbdc75830",
+                   "name":"Font del Passeig de Santa Madrona"
+                }
+             ]
+          },
+          "social_media":{
+             "twitter":""
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"4c5595d11b46c9b646477dd0",
+          "categories":[
+             {
+                "id":16032,
+                "name":"Park",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":940,
+          "geocodes":{
+             "main":{
+                "latitude":41.359137,
+                "longitude":2.154809
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Camí del Molí",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "formatted_address":"Camí del Molí, 08038 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "neighborhood":[
+                "Montjuic"
+             ],
+             "postcode":"08038",
+             "region":"Catalonia"
+          },
+          "name":"Parc del migdia",
+          "popularity":0.9686174537942553,
+          "rating":8.7,
+          "related_places":{
+             "children":[
+                {
+                   "fsq_id":"56d1a427cd1060338f144929",
+                   "name":"Mirador del Migdia"
+                }
+             ]
+          },
+          "social_media":{
+             
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"4b9247d7f964a520d1ef33e3",
+          "categories":[
+             {
+                "id":16005,
+                "name":"Botanical Garden",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/botanicalgarden_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":915,
+          "geocodes":{
+             "main":{
+                "latitude":41.367356,
+                "longitude":2.155735
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Passeig de Santa Madrona",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"Av. de l'Estadi",
+             "formatted_address":"Passeig de Santa Madrona (Av. de l'Estadi), 08038 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "neighborhood":[
+                "Poble Sec"
+             ],
+             "postcode":"08038",
+             "region":"Catalonia"
+          },
+          "name":"Jardines de Joan Maragall",
+          "popularity":0.9501791090697317,
+          "rating":8.6,
+          "related_places":{
+             "parent":{
+                "fsq_id":"4d26c189342d6dcbb4c3e6ca",
+                "name":"Muntanya de Montjuïc"
+             }
+          },
+          "social_media":{
+             
+          },
+          "timezone":"Europe/Madrid",
+          "website":"http://w110.bcn.cat/portal/site/MediAmbient/menuitem.0d4d06202ea41e13e9c5e9c5a2ef8a0c/?vgnextoid=6673be675e56a210VgnVCM10000074fea8c0RCRD&vgnextchannel=6de179583ad1a210VgnVCM10000074fea8c0RCRD&lang=es_ES"
+       },
+       {
+          "fsq_id":"53ac486c498ef93a95c1ac73",
+          "categories":[
+             {
+                "id":16031,
+                "name":"Palace",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "distance":1076,
+          "geocodes":{
+             "main":{
+                "latitude":41.369392,
+                "longitude":2.154277
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"",
+             "formatted_address":"Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"",
+             "region":"Catalonia"
+          },
+          "name":"Palece of Montjuic",
+          "popularity":0.9931579602810071,
+          "rating":8.9,
+          "related_places":{
+             
+          },
+          "social_media":{
+             "twitter":""
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"4adcda50f964a520424121e3",
+          "categories":[
+             {
+                "id":16016,
+                "name":"Fountain",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":1340,
+          "geocodes":{
+             "main":{
+                "latitude":41.371137,
+                "longitude":2.151738
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Gas, 1",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "formatted_address":"Gas, 1, 08004 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "neighborhood":[
+                "Anella Olimpica"
+             ],
+             "postcode":"08004",
+             "region":"Catalonia"
+          },
+          "name":"Magic Fountain of Montjuïc (Fuente Mágica de Montjuïc)",
+          "popularity":0.9995384919675626,
+          "rating":9.1,
+          "related_places":{
+             "parent":{
+                "fsq_id":"4d26c189342d6dcbb4c3e6ca",
+                "name":"Muntanya de Montjuïc"
+             }
+          },
+          "social_media":{
+             
+          },
+          "tel":"932 37 47 43",
+          "timezone":"Europe/Madrid",
+          "website":"https://www.barcelona.cat/en/what-to-do-in-bcn/magic-fountain/magic-fountains-show-times"
+       },
+       {
+          "fsq_id":"4b9cfc34f964a5209c8636e3",
+          "categories":[
+             {
+                "id":16026,
+                "name":"Monument",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":1372,
+          "geocodes":{
+             "main":{
+                "latitude":41.375841,
+                "longitude":2.177655
+             },
+             "roof":{
+                "latitude":41.375841,
+                "longitude":2.177655
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Plaza Portal de la Pau, s/n",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"",
+             "formatted_address":"Plaza Portal de la Pau, s/n, 08002 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "neighborhood":[
+                "El Raval"
+             ],
+             "postcode":"08002",
+             "region":"Catalonia"
+          },
+          "name":"Monumento a Colón (Barcelona) (Monumento a Colón)",
+          "popularity":0.9998315129405387,
+          "rating":8.8,
+          "related_places":{
+             "children":[
+                
+             ]
+          },
+          "social_media":{
+             "facebook_id":"118002398257324"
+          },
+          "tel":"933 02 52 24",
+          "timezone":"Europe/Madrid",
+          "website":"http://w110.bcn.cat/portal/site/Turisme/?vgnextchannel=0000001193008776VgnV6CONT00000000000RCRD"
+       },
+       {
+          "fsq_id":"4adcda50f964a520264121e3",
+          "categories":[
+             {
+                "id":16026,
+                "name":"Monument",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"El Palau Güell, dissenyat per Antoni Gaudí i Cornet, destaca pel fet de ser un dels edificis que es troba en l’origen de l’arquitectura art nouveau a escala mundial. Va ser la casa de la família Güell al final del segle XIX i al principi del segle XX.",
+          "distance":1495,
+          "email":"palauguell@diba.cat",
+          "geocodes":{
+             "main":{
+                "latitude":41.378881,
+                "longitude":2.174226
+             },
+             "roof":{
+                "latitude":41.378881,
+                "longitude":2.174226
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Calle Nou de la Rambla 3-5",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"C. de les Penedides",
+             "formatted_address":"Calle Nou de la Rambla 3-5 (C. de les Penedides), 08001 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "neighborhood":[
+                "El Raval"
+             ],
+             "postcode":"08001",
+             "region":"Catalonia"
+          },
+          "name":"Palacio Güell",
+          "popularity":0.9983151294053871,
+          "rating":9.0,
+          "related_places":{
+             
+          },
+          "social_media":{
+             "facebook_id":"312963438752204",
+             "twitter":"palauguell"
+          },
+          "tel":"934 72 57 75",
+          "timezone":"Europe/Madrid",
+          "website":"http://www.palauguell.cat"
+       },
+       {
+          "fsq_id":"4b7c12aff964a520517b2fe3",
+          "categories":[
+             {
+                "id":16041,
+                "name":"Plaza",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":1733,
+          "geocodes":{
+             "main":{
+                "latitude":41.375038,
+                "longitude":2.149086
+             },
+             "roof":{
+                "latitude":41.375038,
+                "longitude":2.149086
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Pl. d'Espanya",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "formatted_address":"Pl. d'Espanya, 08015 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"08015",
+             "region":"Catalonia"
+          },
+          "name":"Plaça d'Espanya (Plaza de España)",
+          "popularity":0.9999413958054048,
+          "rating":9.2,
+          "related_places":{
+             "children":[
+                {
+                   "fsq_id":"4d6670d905a7f04db897b28f",
+                   "name":"Aerobus Plaça Espanya"
+                },
+                {
+                   "fsq_id":"5c73a83d835c9a00398c2739",
+                   "name":"Tunel Pl. Espanya"
+                }
+             ]
+          },
+          "social_media":{
+             
+          },
+          "tel":"934 02 70 00",
+          "timezone":"Europe/Madrid",
+          "website":"https://www.barcelona.cat/es/"
+       },
+       {
+          "fsq_id":"4dde402345dd033c3929b0e4",
+          "categories":[
+             {
+                "id":16045,
+                "name":"Roof Deck",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/travel/hotel_roofdeck_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "distance":1399,
+          "geocodes":{
+             "main":{
+                "latitude":41.379062,
+                "longitude":2.169636
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Rambla de Raval, 17-21",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"",
+             "formatted_address":"Rambla de Raval, 17-21, 08001 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"08001",
+             "region":"Catalonia"
+          },
+          "name":"Rooftop Combinat 360",
+          "popularity":0.9942567889296676,
+          "rating":8.5,
+          "related_places":{
+             "parent":{
+                "fsq_id":"4ad35844f964a520e4e320e3",
+                "name":"Barceló Raval"
+             }
+          },
+          "social_media":{
+             "twitter":""
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"4e314f79091a80d018a969e6",
+          "categories":[
+             {
+                "id":16041,
+                "name":"Plaza",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":721,
+          "geocodes":{
+             "main":{
+                "latitude":41.372333,
+                "longitude":2.162441
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Plaça del Sortidor",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "formatted_address":"Plaça del Sortidor, 08004 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"08004",
+             "region":"Catalonia"
+          },
+          "name":"Plaça del Sortidor",
+          "popularity":0.9705953453618442,
+          "rating":7.9,
+          "related_places":{
+             
+          },
+          "social_media":{
+             
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"51c9d28e498e43f34bb39712",
+          "categories":[
+             {
+                "id":16041,
+                "name":"Plaza",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "distance":1215,
+          "geocodes":{
+             "main":{
+                "latitude":41.369455,
+                "longitude":2.15258
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Plaça de les Cascades",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"",
+             "formatted_address":"Plaça de les Cascades, Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"",
+             "region":"Catalonia"
+          },
+          "name":"Plaça de les Cascades (Plaza de las Cascadas)",
+          "popularity":0.9979708297621402,
+          "rating":8.2,
+          "related_places":{
+             
+          },
+          "social_media":{
+             "twitter":""
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"4adcda51f964a520884121e3",
+          "categories":[
+             {
+                "id":16041,
+                "name":"Plaza",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":1481,
+          "geocodes":{
+             "main":{
+                "latitude":41.369294,
+                "longitude":2.152425
+             },
+             "roof":{
+                "latitude":41.369294,
+                "longitude":2.152425
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Pierre de Coubertin, 6",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"",
+             "formatted_address":"Pierre de Coubertin, 6, 08038 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "neighborhood":[
+                "Avinguda de l'Estadi"
+             ],
+             "postcode":"08038",
+             "region":"Catalonia"
+          },
+          "name":"Anella Olímpica",
+          "popularity":0.9778622654916526,
+          "rating":8.5,
+          "related_places":{
+             "parent":{
+                "fsq_id":"4d26c189342d6dcbb4c3e6ca",
+                "name":"Muntanya de Montjuïc"
+             }
+          },
+          "social_media":{
+             
+          },
+          "tel":"934 26 06 60",
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"4bb7a3af98c7ef3b921c3002",
+          "categories":[
+             {
+                "id":16005,
+                "name":"Botanical Garden",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/botanicalgarden_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":933,
+          "email":"jardibotanic@mail.bcn.es",
+          "geocodes":{
+             "main":{
+                "latitude":41.36328,
+                "longitude":2.157585
+             }
+          },
+          "hours":{
+             "display":"Open Daily 10:00-18:00",
+             "is_local_holiday":false,
+             "open_now":true,
+             "regular":[
+                {
+                   "close":"1800",
+                   "day":1,
+                   "open":"1000"
+                },
+                {
+                   "close":"1800",
+                   "day":2,
+                   "open":"1000"
+                },
+                {
+                   "close":"1800",
+                   "day":3,
+                   "open":"1000"
+                },
+                {
+                   "close":"1800",
+                   "day":4,
+                   "open":"1000"
+                },
+                {
+                   "close":"1800",
+                   "day":5,
+                   "open":"1000"
+                },
+                {
+                   "close":"1800",
+                   "day":6,
+                   "open":"1000"
+                },
+                {
+                   "close":"1800",
+                   "day":7,
+                   "open":"1000"
+                }
+             ],
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Calle Dr. Font I Quer, 2",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "formatted_address":"Calle Dr. Font I Quer, 2, 08038 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "neighborhood":[
+                "Montjuïc"
+             ],
+             "postcode":"08038",
+             "region":"Catalonia"
+          },
+          "name":"Jardí Botànic de Barcelona",
+          "popularity":0.9913632068215282,
+          "rating":8.0,
+          "related_places":{
+             "parent":{
+                "fsq_id":"4d26c189342d6dcbb4c3e6ca",
+                "name":"Muntanya de Montjuïc"
+             }
+          },
+          "social_media":{
+             
+          },
+          "tel":"934 26 49 35",
+          "timezone":"Europe/Madrid",
+          "website":"http://www.jardibotanic.bcn.es/"
+       },
+       {
+          "fsq_id":"4adcda51f964a520794121e3",
+          "categories":[
+             {
+                "id":16041,
+                "name":"Plaza",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":1986,
+          "geocodes":{
+             "main":{
+                "latitude":41.383306,
+                "longitude":2.175264
+             },
+             "roof":{
+                "latitude":41.383306,
+                "longitude":2.175264
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Plaça de Sant Felip Neri",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "formatted_address":"Plaça de Sant Felip Neri, 08002 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"08002",
+             "region":"Catalonia"
+          },
+          "name":"Plaça de Sant Felip Neri",
+          "popularity":0.9940077211026379,
+          "rating":9.0,
+          "related_places":{
+             
+          },
+          "social_media":{
+             
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"4adcda51f964a520754121e3",
+          "categories":[
+             {
+                "id":16041,
+                "name":"Plaza",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":1978,
+          "geocodes":{
+             "main":{
+                "latitude":41.382552,
+                "longitude":2.177217
+             },
+             "roof":{
+                "latitude":41.382552,
+                "longitude":2.177217
+             }
+          },
+          "hours":{
+             "display":"Mon-Sat 13:00-16:00, 19:00-23:00",
+             "is_local_holiday":false,
+             "open_now":false,
+             "regular":[
+                {
+                   "close":"1600",
+                   "day":1,
+                   "open":"1300"
+                },
+                {
+                   "close":"2300",
+                   "day":1,
+                   "open":"1900"
+                },
+                {
+                   "close":"1600",
+                   "day":2,
+                   "open":"1300"
+                },
+                {
+                   "close":"2300",
+                   "day":2,
+                   "open":"1900"
+                },
+                {
+                   "close":"1600",
+                   "day":3,
+                   "open":"1300"
+                },
+                {
+                   "close":"2300",
+                   "day":3,
+                   "open":"1900"
+                },
+                {
+                   "close":"1600",
+                   "day":4,
+                   "open":"1300"
+                },
+                {
+                   "close":"2300",
+                   "day":4,
+                   "open":"1900"
+                },
+                {
+                   "close":"1600",
+                   "day":5,
+                   "open":"1300"
+                },
+                {
+                   "close":"2300",
+                   "day":5,
+                   "open":"1900"
+                },
+                {
+                   "close":"1600",
+                   "day":6,
+                   "open":"1300"
+                },
+                {
+                   "close":"2300",
+                   "day":6,
+                   "open":"1900"
+                }
+             ],
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Plaza Sant Jaume, 4850",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "formatted_address":"Plaza Sant Jaume, 4850, 08002 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "neighborhood":[
+                "Barrio Gótico"
+             ],
+             "postcode":"08002",
+             "region":"Catalonia"
+          },
+          "name":"Plaça Sant Jaume",
+          "popularity":0.9994945388216162,
+          "rating":9.0,
+          "related_places":{
+             
+          },
+          "social_media":{
+             
+          },
+          "tel":"933 19 08 54",
+          "timezone":"Europe/Madrid",
+          "website":"http://www.bcn.cat"
+       },
+       {
+          "fsq_id":"4da03200c41ca1430a5b42a3",
+          "categories":[
+             {
+                "id":16032,
+                "name":"Park",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":504,
+          "geocodes":{
+             "main":{
+                "latitude":41.371259,
+                "longitude":2.1672
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Camí de Font-Trobada",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "formatted_address":"Camí de Font-Trobada, 08004 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "neighborhood":[
+                "El Poble Sec"
+             ],
+             "postcode":"08004",
+             "region":"Catalonia"
+          },
+          "name":"Parc de la Primavera",
+          "popularity":0.9894439194485345,
+          "rating":7.5,
+          "related_places":{
+             "parent":{
+                "fsq_id":"4d26c189342d6dcbb4c3e6ca",
+                "name":"Muntanya de Montjuïc"
+             }
+          },
+          "social_media":{
+             
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"4adcda4df964a520ee3f21e3",
+          "categories":[
+             {
+                "id":16045,
+                "name":"Roof Deck",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/travel/hotel_roofdeck_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "distance":562,
+          "geocodes":{
+             "main":{
+                "latitude":41.370179,
+                "longitude":2.171321
+             },
+             "roof":{
+                "latitude":41.370179,
+                "longitude":2.171321
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Hotel Miramar Barcelona",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"",
+             "formatted_address":"Hotel Miramar Barcelona, 08038 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"08038",
+             "region":"Catalonia"
+          },
+          "name":"Terraza Hotel Miramar",
+          "popularity":0.9806752668322235,
+          "rating":7.5,
+          "related_places":{
+             "parent":{
+                "fsq_id":"4d5e81a09f67f04dc04961fb",
+                "name":"Hotel Miramar Barcelona"
+             }
+          },
+          "social_media":{
+             "twitter":""
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"506deb6ee4b0c21f07a12237",
+          "categories":[
+             {
+                "id":16046,
+                "name":"Scenic Lookout",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "distance":1775,
+          "geocodes":{
+             "main":{
+                "latitude":41.375919,
+                "longitude":2.149305
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"",
+             "formatted_address":"Arenas Barcelona",
+             "locality":"Arenas",
+             "postcode":"",
+             "region":"Barcelona"
+          },
+          "name":"Roof at las Arenas",
+          "popularity":0.9967621182486136,
+          "rating":8.4,
+          "related_places":{
+             "parent":{
+                "fsq_id":"4d8b74e599c2a1cdc112a6d7",
+                "name":"Arenas de Barcelona"
+             }
+          },
+          "social_media":{
+             "twitter":""
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"4c66b4e519f3c9b68284a0ff",
+          "categories":[
+             {
+                "id":16003,
+                "name":"Beach",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/beach_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":1965,
+          "geocodes":{
+             "main":{
+                "latitude":41.383271,
+                "longitude":2.168016
+             },
+             "roof":{
+                "latitude":41.383271,
+                "longitude":2.168016
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Passeig de Joan de Borbó 79",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "formatted_address":"Passeig de Joan de Borbó 79, 08039 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "neighborhood":[
+                "La Barceloneta"
+             ],
+             "postcode":"08039",
+             "region":"Catalonia"
+          },
+          "name":"Platja de Sant Sebastià",
+          "popularity":0.9971430455134827,
+          "rating":8.6,
+          "related_places":{
+             
+          },
+          "social_media":{
+             
+          },
+          "tel":"807 11 72 22",
+          "timezone":"Europe/Madrid",
+          "website":"http://www.bcn.cat/platges"
+       },
+       {
+          "fsq_id":"4d4aa21748a06dcb2eb87ca2",
+          "categories":[
+             {
+                "id":16017,
+                "name":"Garden",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "distance":1152,
+          "geocodes":{
+             "main":{
+                "latitude":41.367207,
+                "longitude":2.152874
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Avenida Dels Muntanyans, 44",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "formatted_address":"Avenida Dels Muntanyans, 44, 08038 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"08038",
+             "region":"Catalonia"
+          },
+          "name":"Jardí Botànic Històric",
+          "popularity":0.9781479609403043,
+          "rating":7.9,
+          "related_places":{
+             "parent":{
+                "fsq_id":"4d26c189342d6dcbb4c3e6ca",
+                "name":"Muntanya de Montjuïc"
+             }
+          },
+          "social_media":{
+             
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"4c433783ff711b8d6c9a1405",
+          "categories":[
+             {
+                "id":16032,
+                "name":"Park",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":1009,
+          "geocodes":{
+             "main":{
+                "latitude":41.374591,
+                "longitude":2.172277
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Avenida del Parallel, 49",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"Nou de la Rambla",
+             "formatted_address":"Avenida del Parallel, 49 (Nou de la Rambla), 08004 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "neighborhood":[
+                "El Poble Sec"
+             ],
+             "postcode":"08004",
+             "region":"Catalonia"
+          },
+          "name":"Jardins de les Tres Xemeneies",
+          "popularity":0.9962932846918519,
+          "rating":7.8,
+          "related_places":{
+             
+          },
+          "social_media":{
+             "twitter":""
+          },
+          "tel":"933 52 64 69",
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"4ce910520f196dcbf29d49ae",
+          "categories":[
+             {
+                "id":16026,
+                "name":"Monument",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":1621,
+          "geocodes":{
+             "main":{
+                "latitude":41.373941,
+                "longitude":2.149584
+             },
+             "roof":{
+                "latitude":41.373941,
+                "longitude":2.149584
+             }
+          },
+          "hours":{
+             "display":"Open Daily 00:00-23:59",
+             "is_local_holiday":false,
+             "open_now":true,
+             "regular":[
+                {
+                   "close":"2359",
+                   "day":1,
+                   "open":"0000"
+                },
+                {
+                   "close":"2359",
+                   "day":2,
+                   "open":"0000"
+                },
+                {
+                   "close":"2359",
+                   "day":3,
+                   "open":"0000"
+                },
+                {
+                   "close":"2359",
+                   "day":4,
+                   "open":"0000"
+                },
+                {
+                   "close":"2359",
+                   "day":5,
+                   "open":"0000"
+                },
+                {
+                   "close":"2359",
+                   "day":6,
+                   "open":"0000"
+                },
+                {
+                   "close":"2359",
+                   "day":7,
+                   "open":"0000"
+                }
+             ],
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Avinguda de la Reina Maria Cristina, 1755",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"Av Maria Cristina",
+             "formatted_address":"Avinguda de la Reina Maria Cristina, 1755 (Av Maria Cristina), 08004 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "neighborhood":[
+                "El Poble Sec"
+             ],
+             "postcode":"08004",
+             "region":"Catalonia"
+          },
+          "name":"Torres Venecianes",
+          "popularity":0.9981686189188991,
+          "rating":8.0,
+          "related_places":{
+             
+          },
+          "social_media":{
+             
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"517a90f2e4b0c34968af7ca1",
+          "categories":[
+             {
+                "id":16041,
+                "name":"Plaza",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "distance":1652,
+          "geocodes":{
+             "main":{
+                "latitude":41.36871,
+                "longitude":2.147038
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"",
+             "formatted_address":"Barcelona Catalonia",
+             "locality":"Barcelona",
+             "neighborhood":[
+                "Parc de Montjuïc"
+             ],
+             "postcode":"",
+             "region":"Catalonia"
+          },
+          "name":"Plaza Mayor",
+          "popularity":0.9893926407782637,
+          "rating":8.0,
+          "related_places":{
+             "parent":{
+                "fsq_id":"4adcda5af964a520504421e3",
+                "name":"Poble Espanyol"
+             }
+          },
+          "social_media":{
+             "twitter":""
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"4eb2ccd04690370e0cadaaf2",
+          "categories":[
+             {
+                "id":16020,
+                "name":"Historic and Protected Site",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "distance":1396,
+          "geocodes":{
+             "main":{
+                "latitude":41.36906,
+                "longitude":2.150228
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"",
+             "formatted_address":"Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"",
+             "region":"Catalonia"
+          },
+          "name":"Monestir de Sant Miquel",
+          "popularity":0.9798914357295123,
+          "rating":7.8,
+          "related_places":{
+             
+          },
+          "social_media":{
+             "twitter":""
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"4c027cd6413bb713f2529921",
+          "categories":[
+             {
+                "id":16032,
+                "name":"Park",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":1944,
+          "geocodes":{
+             "main":{
+                "latitude":41.377916,
+                "longitude":2.148511
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Aragó, 2",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "formatted_address":"Aragó, 2, 08015 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"08015",
+             "region":"Catalonia"
+          },
+          "name":"Parc de Joan Miró",
+          "popularity":0.9992967496648573,
+          "rating":7.7,
+          "related_places":{
+             "children":[
+                {
+                   "fsq_id":"598f24d80a464d0991caaee3",
+                   "name":"Parque de Perros Joan Miró"
+                },
+                {
+                   "fsq_id":"570ba2c9498e4f01def7ec3c",
+                   "name":"Chiringuito Miró"
+                }
+             ]
+          },
+          "social_media":{
+             
+          },
+          "tel":"807 11 77 00",
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"4de2671cae60e7f3abedfeb1",
+          "categories":[
+             {
+                "id":16041,
+                "name":"Plaza",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "distance":1146,
+          "geocodes":{
+             "main":{
+                "latitude":41.373876,
+                "longitude":2.176584
+             },
+             "roof":{
+                "latitude":41.373876,
+                "longitude":2.176584
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Plaça de la Carbonera",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"Passeig de Josep Camer",
+             "formatted_address":"Plaça de la Carbonera (Passeig de Josep Camer), 08038 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"08038",
+             "region":"Catalonia"
+          },
+          "name":"Plaça de la Carbonera",
+          "popularity":0.9761773948970398,
+          "rating":7.3,
+          "related_places":{
+             
+          },
+          "social_media":{
+             "twitter":""
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"4e63a13db993678bb703adb0",
+          "categories":[
+             {
+                "id":16026,
+                "name":"Monument",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":1598,
+          "geocodes":{
+             "main":{
+                "latitude":41.380558,
+                "longitude":2.170331
+             },
+             "roof":{
+                "latitude":41.380558,
+                "longitude":2.170331
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Carrer de l'Hospital, 56",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "formatted_address":"Carrer de l'Hospital, 56, 08001 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "neighborhood":[
+                "El Raval"
+             ],
+             "postcode":"08001",
+             "region":"Catalonia"
+          },
+          "name":"Antic Hospital de la Santa Creu",
+          "popularity":0.9102403504530837,
+          "rating":7.3,
+          "related_places":{
+             
+          },
+          "social_media":{
+             
+          },
+          "tel":"934 42 71 71",
+          "timezone":"Europe/Madrid",
+          "website":"http://www.barcelonaturisme.com/The-Antic-Hospital-de-la-Santa-Creu/_3Ngb8YjSpL3U56ScBHOWcxpDev_Vr2xenW9xi7AuDRplgd3Q8I6AKMuQvJDPN27n"
+       },
+       {
+          "fsq_id":"4b9957c4f964a520787435e3",
+          "categories":[
+             {
+                "id":16032,
+                "name":"Park",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "distance":971,
+          "geocodes":{
+             "main":{
+                "latitude":41.373223,
+                "longitude":2.174596
+             },
+             "roof":{
+                "latitude":41.373223,
+                "longitude":2.174596
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Jardíns de Walter Benjamin",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "formatted_address":"Jardíns de Walter Benjamin, 08004 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"08004",
+             "region":"Catalonia"
+          },
+          "name":"Jardíns Walter Benjamín",
+          "popularity":0.9629768000644646,
+          "rating":6.9,
+          "related_places":{
+             
+          },
+          "social_media":{
+             
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"4ce292dc41ed224bd562f03c",
+          "categories":[
+             {
+                "id":16017,
+                "name":"Garden",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "distance":1951,
+          "geocodes":{
+             "main":{
+                "latitude":41.381549,
+                "longitude":2.154417
+             },
+             "roof":{
+                "latitude":41.381549,
+                "longitude":2.154417
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Viladomat, 149",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"",
+             "formatted_address":"Viladomat, 149, 08015 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "neighborhood":[
+                "La Nova Esquerra de l'Eixample"
+             ],
+             "postcode":"08015",
+             "region":"Catalonia"
+          },
+          "name":"Jardins de Paula Montal",
+          "popularity":0.9778183123457062,
+          "rating":7.1,
+          "related_places":{
+             
+          },
+          "social_media":{
+             "twitter":""
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"4c7d90af2079b713288de5f5",
+          "categories":[
+             {
+                "id":16041,
+                "name":"Plaza",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "distance":1716,
+          "geocodes":{
+             "main":{
+                "latitude":41.381947,
+                "longitude":2.167797
+             },
+             "roof":{
+                "latitude":41.381947,
+                "longitude":2.167797
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Carrer dels Angels",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"Peu de la creu",
+             "formatted_address":"Carrer dels Angels (Peu de la creu), Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"",
+             "region":"Catalonia"
+          },
+          "name":"Plaça de les Caramelles",
+          "popularity":0.9734376487997128,
+          "rating":6.8,
+          "related_places":{
+             
+          },
+          "social_media":{
+             "twitter":""
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"4febf535e4b0bda56bd0d459",
+          "categories":[
+             {
+                "id":16041,
+                "name":"Plaza",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "distance":891,
+          "geocodes":{
+             "main":{
+                "latitude":41.374667,
+                "longitude":2.167558
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Plaça del Molino",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"Carrer d'En Fontrodona",
+             "formatted_address":"Plaça del Molino (Carrer d'En Fontrodona), 08004 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"08004",
+             "region":"Catalonia"
+          },
+          "name":"Plaça del Molino",
+          "popularity":0.9764411137727182,
+          "rating":6.2,
+          "related_places":{
+             
+          },
+          "social_media":{
+             "twitter":""
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"61588386964256670d6b5f12",
+          "categories":[
+             {
+                "id":16037,
+                "name":"Playground",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "distance":101,
+          "geocodes":{
+             "main":{
+                "latitude":41.365784,
+                "longitude":2.166954
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"",
+             "formatted_address":"08038 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"08038",
+             "region":"Catalonia"
+          },
+          "name":"Tobogans de Montjuïc",
+          "popularity":0.9398427942479983,
+          "related_places":{
+             "parent":{
+                "fsq_id":"4d26c189342d6dcbb4c3e6ca",
+                "name":"Muntanya de Montjuïc"
+             }
+          },
+          "social_media":{
+             "twitter":""
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"5db5a8708e3e4e00084d5600",
+          "categories":[
+             {
+                "id":16047,
+                "name":"Sculpture Garden",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sculpture_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "distance":224,
+          "geocodes":{
+             "main":{
+                "latitude":41.367996,
+                "longitude":2.168693
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Jardins de Joan Brossa",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "cross_street":"",
+             "formatted_address":"Jardins de Joan Brossa, 08038 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"08038",
+             "region":"Catalonia"
+          },
+          "name":"Momument a la Sardana",
+          "popularity":0.9297115941073483,
+          "related_places":{
+             "parent":{
+                "fsq_id":"4d26c189342d6dcbb4c3e6ca",
+                "name":"Muntanya de Montjuïc"
+             }
+          },
+          "social_media":{
+             "twitter":""
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"4adcda50f964a5206e4121e3",
+          "categories":[
+             {
+                "id":16026,
+                "name":"Monument",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":360,
+          "geocodes":{
+             "main":{
+                "latitude":41.36723,
+                "longitude":2.167944
+             },
+             "roof":{
+                "latitude":41.36723,
+                "longitude":2.167944
+             }
+          },
+          "hours":{
+             "display":"Open Daily 10:00-21:00",
+             "is_local_holiday":false,
+             "open_now":true,
+             "regular":[
+                {
+                   "close":"2100",
+                   "day":1,
+                   "open":"1000"
+                },
+                {
+                   "close":"2100",
+                   "day":2,
+                   "open":"1000"
+                },
+                {
+                   "close":"2100",
+                   "day":3,
+                   "open":"1000"
+                },
+                {
+                   "close":"2100",
+                   "day":4,
+                   "open":"1000"
+                },
+                {
+                   "close":"2100",
+                   "day":5,
+                   "open":"1000"
+                },
+                {
+                   "close":"2100",
+                   "day":6,
+                   "open":"1000"
+                },
+                {
+                   "close":"2100",
+                   "day":7,
+                   "open":"1000"
+                }
+             ],
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Avenida Miramar, 30",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "formatted_address":"Avenida Miramar, 30, 08038 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "neighborhood":[
+                "El Poble Sec"
+             ],
+             "postcode":"08038",
+             "region":"Catalonia"
+          },
+          "name":"Telefèric de Montjuïc (Teleférico de Montjuïc)",
+          "popularity":0.99901837974053,
+          "related_places":{
+             "parent":{
+                "fsq_id":"4d26c189342d6dcbb4c3e6ca",
+                "name":"Muntanya de Montjuïc"
+             }
+          },
+          "social_media":{
+             "facebook_id":"105450023720",
+             "instagram":"tmb_bcn",
+             "twitter":"tmb_barcelona"
+          },
+          "tel":"932 98 70 00",
+          "timezone":"Europe/Madrid",
+          "website":"http://www.telefericdemontjuic.cat/"
+       },
+       {
+          "fsq_id":"4db0588ccda14b702a31070f",
+          "categories":[
+             {
+                "id":16032,
+                "name":"Park",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "description":"",
+          "distance":383,
+          "geocodes":{
+             "main":{
+                "latitude":41.371529,
+                "longitude":2.173813
+             },
+             "roof":{
+                "latitude":41.371529,
+                "longitude":2.173813
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "address":"Avinguda Miramar, 30",
+             "admin_region":"Cataluña",
+             "country":"ES",
+             "formatted_address":"Avinguda Miramar, 30, 08038 Barcelona Catalonia",
+             "locality":"Barcelona",
+             "postcode":"08038",
+             "region":"Catalonia"
+          },
+          "name":"Parc de Montjuic",
+          "popularity":0.9952384091891378,
+          "related_places":{
+             "parent":{
+                "fsq_id":"4d26c189342d6dcbb4c3e6ca",
+                "name":"Muntanya de Montjuïc"
+             }
+          },
+          "social_media":{
+             "facebook_id":"105450023720",
+             "instagram":"tmb_bcn",
+             "twitter":"tmb_barcelona"
+          },
+          "tel":"933 29 86 53",
+          "timezone":"Europe/Madrid",
+          "website":"http://www.tmb.cat"
+       },
+       {
+          "fsq_id":"51862557498e98b93756c23f",
+          "categories":[
+             {
+                "id":16030,
+                "name":"Other Great Outdoors",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/outdoors_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "distance":737,
+          "geocodes":{
+             "main":{
+                "latitude":41.373034,
+                "longitude":2.164171
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "country":"ES",
+             "cross_street":"",
+             "formatted_address":"",
+             "postcode":""
+          },
+          "name":"Carrer de Tapioles",
+          "popularity":0.9617241354049916,
+          "related_places":{
+             
+          },
+          "social_media":{
+             "twitter":""
+          },
+          "timezone":"Europe/Madrid"
+       },
+       {
+          "fsq_id":"51516929e4b0cb9ae512f82b",
+          "categories":[
+             {
+                "id":16030,
+                "name":"Other Great Outdoors",
+                "icon":{
+                   "prefix":"https://ss3.4sqi.net/img/categories_v2/parks_outdoors/outdoors_",
+                   "suffix":".png"
+                }
+             }
+          ],
+          "chains":[
+             
+          ],
+          "distance":907,
+          "geocodes":{
+             "main":{
+                "latitude":41.372443,
+                "longitude":2.158966
+             }
+          },
+          "hours":{
+             "is_local_holiday":false,
+             "open_now":false,
+             "seasonal":[
+                
+             ]
+          },
+          "location":{
+             "country":"ES",
+             "cross_street":"",
+             "formatted_address":"",
+             "postcode":""
+          },
+          "name":"Carrer de Les Pedreres",
+          "popularity":0.9625592451779736,
+          "related_places":{
+             
+          },
+          "social_media":{
+             "twitter":""
+          },
+          "timezone":"Europe/Madrid"
+       }
+    ],
+    "date_fetched":"20220403",
+    "location":"Montjuïc"
+ }

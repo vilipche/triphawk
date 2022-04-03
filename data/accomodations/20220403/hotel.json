@@ -1,0 +1,28 @@
+{
+    "data":{
+       "@type":"Hotel",
+       "image":"https://t-cf.bstatic.com/xdata/images/hotel/max500/78822998.jpg?k=4e2dbf2437c2eefa4731f6fc1801dc51336543fe6148f1a49f8123d8078b03f5&o=&hp=1",
+       "@context":"http://schema.org",
+       "hasMap":"https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c41.3801093,2.1711423&center=41.3801093,2.1711423&size=1600x1200&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=0DVnLjK9b9f2R3e0zTVlLPAcaNc=",
+       "name":"Leonardo Hotel Barcelona Las Ramblas",
+       "description":"Leonardo Hotel Barcelona Las Ramblas is situated in the centre of Barcelona’s Old Town, just 200 metres from Las Ramblas.",
+       "address":{
+          "addressLocality":"Junta de Comercio, 8,10,12",
+          "postalCode":"08001",
+          "streetAddress":"Junta de Comercio, 8,10,12, Ciutat Vella, 08001 Barcelona, Spain",
+          "addressRegion":"Catalonia",
+          "@type":"PostalAddress",
+          "addressCountry":"Spain"
+       },
+       "url":"https://www.booking.com/hotel/es/leonardo-hotel-barcelona-las-ramblas.en-gb.html",
+       "priceRange":"Prices for upcoming dates start at €\\xa0131 per night (We Price Match)",
+       "aggregateRating":{
+          "bestRating":10,
+          "reviewCount":3059,
+          "ratingValue":8.2,
+          "@type":"AggregateRating"
+       }
+    },
+    "date_fetched":"20220403",
+    "hotel_url":"https://www.booking.com/hotel/es/leonardo-hotel-barcelona-las-ramblas.en-gb.html"
+ }

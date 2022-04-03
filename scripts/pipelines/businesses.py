@@ -16,8 +16,6 @@ print("fetch done")
 # creates a new directory, each day the date will change
 try:
     loader.create_directory_hdfs(HDFS_DIR)
-    # loader.create_directory_hdfs(f"{HDFS_DIR}/bar/")
-    # loader.create_directory_hdfs(f"{HDFS_DIR}/restaurant/")
 except:
     print("ERROR: Directory already exist")
 

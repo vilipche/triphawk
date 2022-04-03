@@ -1,2 +1,3 @@
 hdfs
 pymongo
+bs4
