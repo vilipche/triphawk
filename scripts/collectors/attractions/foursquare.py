@@ -1,5 +1,4 @@
 import requests
-from datetime import date
 from credentials import keys
 from scripts.temp_loaders import loader
 
@@ -27,50 +26,42 @@ neighborhoods = [    'Barceloneta',
     "Sants",
     "Sarrià - Sant Gervasi"]
 
-#TODO if we have time, refactor the code, fetch in one, load in other function
 
-def fetch_attractions(location, api_key):
+def fetch_attractions(location, api_key, current_date):
+    """
+    function that fetches and returns attractions data from API 
+    :return: list of objects
+    """
+
     headers = {
         "Accept": "application/json",
         "Authorization": api_key
     }
     url = 'https://api.foursquare.com/v3/places/search'
 
-    current_date = date.today().strftime("%Y%m%d")
-    new_dir = f'/user/bdm/triphawk/data/attractions/{current_date}/'
-
-    try:
-        loader.create_directory_hdfs(f'{new_dir}')
-    except:
-        print("Folders already exist")
-
+    data = []
     for location in neighborhoods:
         params = {
-            'categories': 16000, # attractions code
+            'categories': 16000, # attractions code for forsquare API
             'limit': 50,
             'near': f'{location}, Barcelona, Spain'.replace(' ', '+'),
             'fields': fields
         }
+
         response = requests.get(url, headers=headers, params=params)
 
-        try:
-            loader.create_directory_hdfs(new_dir)
-        except:
-            print("ERROR: Directory already exist")
-
         if response.status_code == 200:
-            print(location)
+            # print(location)
             res = response.json()['results']
-            
-            loader.add_json_to_hdfs(new_dir, f"{location}.json", {f'{location}': res})
+
+            data.append({'data': res, 'date_fetched': current_date, 'location': location})
 
         elif response.status_code == 400:
             print('400 Bad Request')
             break
 
-def get_attractions():
+    return data
+
+def get_attractions(current_date):
     print("fetching attractions")
-    fetch_attractions(neighborhoods, api_key)
-
-
-get_attractions()
+    return fetch_attractions('Barceloneta', api_key, current_date)
