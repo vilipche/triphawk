@@ -1,10 +1,14 @@
+from distutils.log import info
 import requests
 from bs4 import BeautifulSoup as bs
 import json
 import time
 import pandas as pd
+import re
 
-def get_hotel_info(hotel_url):
+#TODO: add function to get the availability info
+
+def get_hotel_data(hotel_url):
     headers ={
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36",
     }
@@ -15,41 +19,33 @@ def get_hotel_info(hotel_url):
         return None
     if response.status_code != 200:
         return None
-    soup = bs(response.text,"lxml")
-    try:
-        hotel_name = soup.find_all('h2', attrs={"class":"hp__hotel-name"})[0].text.strip()
-        if len(hotel_name.split('\n')) >= 2:
-            hotel_badge = hotel_name.split('\n')[0]
-            hotel_name = hotel_name.split('\n')[1]
-        hotel_loc = soup.find_all('span', attrs={"data-node_tt_id":"location_score_tooltip"})[0].text.strip()
-        hotel_desc = soup.find_all('div', attrs={"id":"property_description_content"})[0].text.strip()
-    except Exception as err:
-        print(hotel_url, "Exception: %s"%err)
+    info_search = re.findall(r'application/ld\+json.*?>(.*?)</script>', response.text, flags= re.S)
+    if len(info_search) < 1:
         return None
-    else:
-        return {"hotel_name": hotel_name,
-                "hotel_loc": hotel_loc,
-                "hotel_desc": hotel_desc,
-                "hotel_url": hotel_url}
+    data = json.loads(info_search[0])
+    return data
 
-url_list = []
-with open("bcn_hotel_url_list.txt", 'r') as f:
-    url_list = f.readlines()
-url_list = [url.strip() for url in set(url_list)]
-total = len(url_list)
-count = 1
+def fetch_accommodations(current_date, sleep_time=3):
+    url_list = []
+    with open("bcn_hotel_url_list.txt", 'r') as f:
+        url_list = f.readlines()
+    url_list = [url.strip() for url in set(url_list)]
+    total = len(url_list)
+    print("total accommodation:", total)
+    count = 1
 
-columns = ["hotel_name", "hotel_loc", "hotel_desc", "hotel_url", ]
-df = pd.DataFrame(columns=columns)
+    json_list = []
+    for hotel_url in url_list:
+        time.sleep(sleep_time)
+        print("%d/%d"%(count, total), hotel_url)
+        data = get_hotel_data(hotel_url)
+        if data == None:
+            print("[warning] fail to fetch %s" % hotel_url)
+            continue
+        json_list.append({'data': data, 'date_fetched': current_date, 'hotel_url': hotel_url})
+        count += 1
+    return json_list
 
-for hotel_url in url_list:
-    time.sleep(3)
-    print("%d/%d"%(count, total), hotel_url)
-    res = get_hotel_info(hotel_url)
-    if res == None:
-        print("[warning] fail to fetch %s" % hotel_url)
-        continue
-    df = df.append(res, ignore_index=True)
-    count += 1
-
-df.to_csv("booking_hotel.csv", sep="|")
+def get_accommodations(current_date):
+    print("fetching accommodations")
+    return fetch_accommodations(current_date)
