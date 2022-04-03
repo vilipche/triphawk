@@ -1,6 +1,4 @@
 import requests
-import json
-import os
 from datetime import date
 from credentials import keys
 from scripts.loaders import loader
@@ -29,6 +27,7 @@ neighborhoods = [    'Barceloneta',
     "Sarrià - Sant Gervasi"]
 terms = ['bar', 'restaurant']
 
+#TODO if we have time, refactor the code, fetch in one, load in other function
 
 def fetch_business(terms, neighborhoods, api_key):
     headers = {'Authorization': 'Bearer %s' % api_key}
@@ -63,7 +62,7 @@ def fetch_business(terms, neighborhoods, api_key):
                     print('400 Bad Request')
                     break
 
-            loader.add_json_to_hdfs(f'{new_dir}/{term}/', f"{term}_{location}_{current_date}.json", {'key': data})
+            loader.add_json_to_hdfs(f'{new_dir}/{term}/', f"{term}_{location}_{current_date}.json", {f'{location}_{term}': data})
 
     return data
 
