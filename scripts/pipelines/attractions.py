@@ -39,7 +39,7 @@ coll = mongo.create_collection(db, 'attractions')
 
 print("Retrieving files from HDFS")
 
-list_of_files = loader.list_files_in_directory(HDFS_DIR)
+list_of_files = reader.list_files_in_directory(HDFS_DIR)
 
 for file_name in list_of_files:
     file = reader.load_file_in_memory(f"{HDFS_DIR}{file_name}")

@@ -1,7 +1,5 @@
 from pymongo import MongoClient
 client = MongoClient('10.4.41.44', 27017)
-print(client)
-
 
 def create_connection(host, port):
     return MongoClient(str(host), int(port))
@@ -17,7 +15,3 @@ def create_collection(db, collection_name):
 
 def list_collections(db):
     return db.list_collection_names()
-
-db = create_database(client, 'triphawk')
-coll = create_collection(db, 'attractions')
-print(coll)
