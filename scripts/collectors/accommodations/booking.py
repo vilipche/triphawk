@@ -3,7 +3,6 @@ import requests
 from bs4 import BeautifulSoup as bs
 import json
 import time
-import pandas as pd
 import re
 
 #TODO: add function to get the availability info
@@ -27,7 +26,7 @@ def get_hotel_data(hotel_url):
 
 def fetch_accommodations(current_date, sleep_time=3):
     url_list = []
-    with open("bcn_hotel_url_list.txt", 'r') as f:
+    with open("/home/bdm/triphawk/scripts/collectors/accommodations/bcn_hotel_url_list.txt", 'r') as f:
         url_list = f.readlines()
     url_list = [url.strip() for url in set(url_list)]
     total = len(url_list)
@@ -36,7 +35,7 @@ def fetch_accommodations(current_date, sleep_time=3):
     fail_count = 0
 
     json_list = []
-    for hotel_url in url_list:
+    for hotel_url in url_list[:2]:
         time.sleep(sleep_time)
         print("%d/%d"%(count, total), hotel_url)
         data = get_hotel_data(hotel_url)
