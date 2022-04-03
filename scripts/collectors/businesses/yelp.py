@@ -59,4 +59,4 @@ def fetch_business(terms, neighborhoods, api_key, current_date):
 
 def get_businesses(current_date):
     print("fetching business")
-    return fetch_business(terms, ['Barceloneta'], api_key, current_date)
+    return fetch_business(terms, neighborhoods, api_key, current_date)

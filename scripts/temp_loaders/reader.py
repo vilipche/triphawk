@@ -14,5 +14,5 @@ def load_file_in_memory(path):
 #   from json import load
 #   model = load(reader)
 
-kur = load_file_in_memory('/user/bdm/triphawk/data/attractions/20220402/Barceloneta.json')
-print(kur)
+# kur = load_file_in_memory('/user/bdm/triphawk/data/businesses/20220403/bar/bar_Barceloneta_20220403.json')
+# print(kur)
