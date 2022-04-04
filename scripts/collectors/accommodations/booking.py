@@ -34,7 +34,7 @@ def fetch_accommodations(current_date, sleep_time=3):
     count = 1
 
     json_list = []
-    for hotel_url in url_list[:2]:
+    for hotel_url in url_list:
         time.sleep(sleep_time)
         print("%d/%d"%(count, total), hotel_url)
         data = get_hotel_data(hotel_url)

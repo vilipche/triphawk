@@ -1,3 +1,6 @@
 hdfs
 pymongo
 bs4
+crontab
+datetime
+requests
