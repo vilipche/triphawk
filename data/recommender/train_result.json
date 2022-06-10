@@ -1,0 +1,253 @@
+{
+    "0":{
+       "categories":[
+          "Catalan",
+          "Seafood"
+       ],
+       "coordinates":{
+          "latitude":41.37911,
+          "longitude":2.18904
+       },
+       "id":"zJJmydXzNX5vfbeuU_WDOg",
+       "image_url":"https://s3-media2.fl.yelpcdn.com/bphoto/GHoJBoGtROMQmJLLb8rleQ/o.jpg",
+       "location":{
+          "country":"ES",
+          "address":"Carrer de Sant Carles, 11",
+          "city":"Barcelona",
+          "zip_code":"08003"
+       },
+       "name":"Somorrostro",
+       "phone":"+34932250010",
+       "price":"€€",
+       "rating":4.5,
+       "review_count":368,
+       "url":"https://www.yelp.com/biz/somorrostro-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+       "city_id":"6249a61d355e2a8dc7c00755"
+    },
+    "1":{
+       "categories":[
+          "Tapas Bars",
+          "Cocktail Bars",
+          "Tapas/Small Plates"
+       ],
+       "coordinates":{
+          "latitude":41.3759188,
+          "longitude":2.1892477
+       },
+       "id":"dM07D-6B39ViIKFX1h65cQ",
+       "image_url":"https://s3-media2.fl.yelpcdn.com/bphoto/vE4eNfjJJyKK-t56bnG9Hg/o.jpg",
+       "location":{
+          "country":"ES",
+          "address":"Paseo Juan de Borbón, 69 None",
+          "city":"Barcelona",
+          "zip_code":"08003"
+       },
+       "name":"Amarre 69",
+       "phone":"+34932505065",
+       "price":"€€",
+       "rating":4.5,
+       "review_count":14,
+       "url":"https://www.yelp.com/biz/amarre-69-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+       "city_id":"6249a61d355e2a8dc7c00755"
+    },
+    "4":{
+       "categories":[
+          "Burgers",
+          "American (Traditional)",
+          "Cocktail Bars"
+       ],
+       "coordinates":{
+          "latitude":41.3775322201786,
+          "longitude":2.19065684418024
+       },
+       "id":"LbClyed1_SzfPuT27WjCeg",
+       "image_url":"https://s3-media2.fl.yelpcdn.com/bphoto/qpSe7woyv_NfogoOb6ailg/o.jpg",
+       "location":{
+          "country":"ES",
+          "address":"Carrer de l'Almirall Aixada, 22",
+          "city":"Barcelona",
+          "zip_code":"08003"
+       },
+       "name":"Surf House Barcelona",
+       "phone":"+34932507023",
+       "price":"€€",
+       "rating":4.0,
+       "review_count":76,
+       "url":"https://www.yelp.com/biz/surf-house-barcelona-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+       "city_id":"6249a61d355e2a8dc7c00755"
+    },
+    "5":{
+       "categories":[
+          "Tapas Bars",
+          "Mediterranean",
+          "Arroceria / Paella"
+       ],
+       "coordinates":{
+          "latitude":41.37727,
+          "longitude":2.1892
+       },
+       "id":"2Hvfke5vrl4PjNSbfBg1Yg",
+       "image_url":"https://s3-media2.fl.yelpcdn.com/bphoto/U50_GBMKNDwD0RPWIVfH4A/o.jpg",
+       "location":{
+          "country":"ES",
+          "address":"Carrer de l'Almirall Aixada, 5",
+          "city":"Barcelona",
+          "zip_code":"08003"
+       },
+       "name":"Cal Chusco",
+       "phone":"+34637010010",
+       "price":"€",
+       "rating":4.0,
+       "review_count":21,
+       "url":"https://www.yelp.com/biz/cal-chusco-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+       "city_id":"6249a61d355e2a8dc7c00755"
+    },
+    "3":{
+       "categories":[
+          "Seafood"
+       ],
+       "coordinates":{
+          "latitude":41.375514,
+          "longitude":2.181906
+       },
+       "id":"nQ6fAf353f_jvmQICSuXkg",
+       "image_url":"https://s3-media4.fl.yelpcdn.com/bphoto/tWPgcRZsmL2NUZfS5TeXbw/o.jpg",
+       "location":{
+          "country":"ES",
+          "address":"Moll d'Espanya, 4  None",
+          "city":"Barcelona",
+          "zip_code":"08039"
+       },
+       "name":"Marítim",
+       "phone":"+34932211775",
+       "rating":4.0,
+       "review_count":5,
+       "url":"https://www.yelp.com/biz/mar%C3%ADtim-barcelona-2?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+       "city_id":"6249a61d355e2a8dc7c00755"
+    },
+    "9":{
+       "categories":[
+          "Spanish",
+          "Tapas Bars",
+          "Cocktail Bars"
+       ],
+       "coordinates":{
+          "latitude":41.37904,
+          "longitude":2.189527
+       },
+       "id":"4pArT2LXKkcrh_hTAZoPZA",
+       "image_url":"https://s3-media3.fl.yelpcdn.com/bphoto/gWI4rzXAXsxW0vguyxjEEg/o.jpg",
+       "location":{
+          "country":"ES",
+          "address":"Carrer de l'Almirall Churruca, 4",
+          "city":"Barcelona",
+          "zip_code":"08003"
+       },
+       "name":"Taverna Iberia",
+       "phone":"+34932253655",
+       "price":"€",
+       "rating":4.5,
+       "review_count":20,
+       "url":"https://www.yelp.com/biz/taverna-iberia-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+       "city_id":"6249a61d355e2a8dc7c00755"
+    },
+    "7":{
+       "categories":[
+          "Catalan",
+          "Seafood",
+          "Mediterranean"
+       ],
+       "coordinates":{
+          "latitude":41.3730880723,
+          "longitude":2.18793043912
+       },
+       "id":"yOmhW3C8Tv0HiVQh24Accw",
+       "image_url":"https://s3-media1.fl.yelpcdn.com/bphoto/-rqjFAldAmmNMUqZZMW1Yw/o.jpg",
+       "location":{
+          "country":"ES",
+          "address":"Passeig de Joan de Borbó Comte de Barcelona, 88",
+          "city":"Barcelona",
+          "zip_code":"08039"
+       },
+       "name":"Torre d'Alta Mar",
+       "phone":"+34932214460",
+       "price":"€€€€",
+       "rating":4.0,
+       "review_count":30,
+       "url":"https://www.yelp.com/biz/torre-d-alta-mar-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+       "city_id":"6249a61d355e2a8dc7c00755"
+    },
+    "8":{
+       "categories":[
+          "Seafood",
+          "Tapas Bars"
+       ],
+       "coordinates":{
+          "latitude":41.37857,
+          "longitude":2.191286
+       },
+       "id":"R_7jPb63hsVBaMppSaMIgA",
+       "image_url":"https://s3-media3.fl.yelpcdn.com/bphoto/KUwccohUge8Rwa600tKlmQ/o.jpg",
+       "location":{
+          "country":"ES",
+          "address":"Carrer de l'Almirall Cervera, 34 None None",
+          "city":"Barcelona",
+          "zip_code":"08003"
+       },
+       "name":"Salamanca",
+       "phone":"+34932215033",
+       "price":"€€€",
+       "rating":3.5,
+       "review_count":189,
+       "url":"https://www.yelp.com/biz/salamanca-barcelona-2?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+       "city_id":"6249a61d355e2a8dc7c00755"
+    },
+    "2":{
+       "categories":[
+          "Catalan"
+       ],
+       "coordinates":{
+          "latitude":41.38082,
+          "longitude":2.18892
+       },
+       "id":"KbTwnUIVHV0wnC2VKRu9lQ",
+       "image_url":"https://s3-media4.fl.yelpcdn.com/bphoto/crs5ClkUkL6Uldel5pEbdQ/o.jpg",
+       "location":{
+          "country":"ES",
+          "address":"Carrer de La Maquinista, 17 None None",
+          "city":"Barcelona",
+          "zip_code":"08003"
+       },
+       "name":"Can Ramonet",
+       "phone":"+34933193064",
+       "price":"€€",
+       "rating":3.5,
+       "review_count":40,
+       "url":"https://www.yelp.com/biz/can-ramonet-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+       "city_id":"6249a61d355e2a8dc7c00755"
+    },
+    "6":{
+       "categories":[
+          "Tapas Bars"
+       ],
+       "coordinates":{
+          "latitude":41.3816584191967,
+          "longitude":2.18818957943288
+       },
+       "id":"-GGKavAS6YJ-tIMX8pvCkA",
+       "image_url":"https://s3-media3.fl.yelpcdn.com/bphoto/eGrPsR0A1LjYEJ029vzR2A/o.jpg",
+       "location":{
+          "country":"ES",
+          "address":"Carrer de Ginebra, 13 None None",
+          "city":"Barcelona",
+          "zip_code":"08003"
+       },
+       "name":"Bar Jai-Ca",
+       "phone":"+34932683265",
+       "price":"€€",
+       "rating":4.0,
+       "review_count":130,
+       "url":"https://www.yelp.com/biz/bar-jai-ca-barcelona?adjust_creative=RqA1ZEM6WDtG1E9qg1EMig&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=RqA1ZEM6WDtG1E9qg1EMig",
+       "city_id":"6249a61d355e2a8dc7c00755"
+    }
+ }

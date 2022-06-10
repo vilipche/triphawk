@@ -32,7 +32,6 @@ def fetch_accommodations(current_date, sleep_time=3):
     total = len(url_list)
     print("total accommodation:", total)
     count = 1
-    fail_count = 0
 
     json_list = []
     for hotel_url in url_list:
@@ -41,11 +40,9 @@ def fetch_accommodations(current_date, sleep_time=3):
         data = get_hotel_data(hotel_url)
         if data == None:
             print("[warning] fail to fetch %s" % hotel_url)
-            fail_count += 1
             continue
         json_list.append({'data': data, 'date_fetched': current_date, 'hotel_url': hotel_url})
         count += 1
-    print("success:", len(json_list), "fail:", fail_count)
     return json_list
 
 def get_accommodations(current_date):

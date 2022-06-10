@@ -53,6 +53,8 @@ There are multiple ways you can fetch and store data.
 
 Running the pipelines will make the data to be fetched/scraped from the sources, uploaded to HDFS, read from HDFS and inserted in MongoDB. 
   
+Start HDFS: `/home/bdm/BDM_Software/hadoop/sbin/start-dfs.sh`
+Start Mongo: `~/BDM_Software/mongodb/bin/mongod --bind_ip_all --dbpath /home/bdm/BDM_Software/data/mongodb_data`
 
 ## Authors
 
